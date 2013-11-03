@@ -1,0 +1,36 @@
+/*
+Syntax error: Invalid CSS after "$nav-link-hover-bg": expected ":", was ""
+        on line 1 of variables.scss
+
+1: $nav-link-hover-bg
+
+Backtrace:
+variables.scss:1
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:1146:in `expected'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:1084:in `expected'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:1079:in `tok!'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:511:in `variable'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:552:in `block_child'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:542:in `block_contents'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:82:in `stylesheet'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/scss/parser.rb:27:in `parse'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/engine.rb:342:in `_to_tree'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/engine.rb:315:in `_render'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/engine.rb:262:in `render'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/plugin/compiler.rb:362:in `update_stylesheet'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/plugin/compiler.rb:203:in `block in update_stylesheets'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/plugin/compiler.rb:201:in `each'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/plugin/compiler.rb:201:in `update_stylesheets'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/plugin.rb:81:in `update_stylesheets'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/exec.rb:443:in `watch_or_update'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/exec.rb:326:in `process_result'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/exec.rb:41:in `parse'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/lib/sass/exec.rb:21:in `parse!'
+/Users/dave/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/sass-3.2.12/bin/scss:9:in `<top (required)>'
+/Users/dave/.rbenv/versions/2.0.0-p247/bin/scss:23:in `load'
+/Users/dave/.rbenv/versions/2.0.0-p247/bin/scss:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Invalid CSS after \"$nav-link-hover-bg\": expected \":\", was \"\"\A         on line 1 of variables.scss\A \A 1: $nav-link-hover-bg"; }

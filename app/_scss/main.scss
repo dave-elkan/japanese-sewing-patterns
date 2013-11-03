@@ -1,0 +1,34 @@
+@import "../_bower_components/sass-bootstrap/lib/bootstrap";
+
+$thumbnail-max-height: 191px;
+
+body {
+  padding-top: 70px;
+}
+
+.thumbnail {
+
+  border: none;
+
+  > a {
+    max-height: $thumbnail-max-height;
+    overflow: hidden;
+    display: block;
+    border-radius: $border-radius-base;
+    
+    img {
+      width: 100%;
+    }
+  }
+
+  .caption {
+    padding-left: 0;
+    padding-right: 0;
+
+    h3 {
+      margin-top: 0.2em;
+    }
+  }
+
+
+}
