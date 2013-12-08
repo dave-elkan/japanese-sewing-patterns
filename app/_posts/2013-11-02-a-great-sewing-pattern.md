@@ -2,7 +2,9 @@
 layout: post
 title:  "A great sewing pattern"
 date:   2013-11-02 14:47:11
-categories: reviews
+categories:
+- reviews
+- popular
 thumb: /img/reviews/2013-11-02/puppy_thumb.jpg
 image: /img/reviews/2013-11-02/puppy.jpg
 ---

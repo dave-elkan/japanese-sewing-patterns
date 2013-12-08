@@ -2,6 +2,8 @@
   "name": "japanesesewingpatternscom",
   "version": "0.0.0",
   "dependencies": {
-    "sass-bootstrap": "~3.0.1"
+    "sass-bootstrap": "~3.0.1",
+    "fancybox": "~2.1.5",
+    "smoothscroll": "~0.0.2"
   }
 }

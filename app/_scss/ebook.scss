@@ -1,0 +1,45 @@
+.ebook-sales {
+
+  .container {
+    clear: both;
+  }
+
+  .sample-pages > div {
+    min-height: 200px;
+    margin-top: 1.75em;
+  }
+
+  .sample-pages a {
+    padding: 0;
+    margin-bottom: 0.5em;
+  }
+
+  section.faq {
+    background-color: #d1ebf7;
+  }
+
+  div.heading {
+
+    img {
+      margin-left: 30px;
+    }
+
+    h2 {
+      font-size: 1.75em;
+    }
+  }
+
+  .ebook-nav ul {
+    float: right;
+    padding-top: 1em;
+    li {
+      font-family: 'Crimson Text', serif;
+      font-size: 1.25em;
+    }
+  }
+
+  .ebook-nav {
+    border-bottom: 2px solid black;
+    margin-top: 2em;
+  }
+}

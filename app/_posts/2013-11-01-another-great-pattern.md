@@ -2,7 +2,9 @@
 layout: post
 title:  "Another great pattern"
 date:   2013-11-01 12:00:10
-categories: reviews
+categories:
+- reviews
+- popular
 thumb: /img/reviews/2013-11-01/goat_thumb.jpg
 image: /img/reviews/2013-11-01/goat.jpg
 ---

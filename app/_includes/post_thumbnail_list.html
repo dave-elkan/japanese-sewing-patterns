@@ -1,0 +1,12 @@
+{% if include.posts.size <= include.count %}
+    {% assign postCount = include.posts.size %}
+{% else %}
+    {% assign postCount = include.count %}
+{% endif %}
+{% for post in include.posts %}
+    {% if forloop.index <= postCount %}
+        <div class="col-md-{{ 12 | divided_by: postCount }}">
+            {% include post_thumbnail.html post=post %}
+        </div>
+    {% endif %}
+{% endfor %}
