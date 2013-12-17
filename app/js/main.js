@@ -9,7 +9,7 @@ $(function() {
         var scrollTo = $(e.target).attr("href");
         var $scrollTo = $(scrollTo);
         if ($scrollTo.length) {
-            window.scrollTo(0, $scrollTo.offset().top, {
+            window.smoothScrollTo(0, $scrollTo.offset().top, {
                 behavior: "smooth"
             });
         }
