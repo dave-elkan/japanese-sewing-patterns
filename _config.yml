@@ -44,3 +44,5 @@ markdown: redcarpet
 
 # Use Pygments to highlight code blocks
 pygments: true
+
+amazon_affilliate_id: 'seinlo-20'
