@@ -219,3 +219,18 @@ section.footer {
     }
   }
 }
+
+div.store {
+
+  .row {
+    margin-top: 2em;
+  }
+
+  a.imageLink {
+    display: block;
+    height: 300px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+}
