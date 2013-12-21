@@ -43,4 +43,18 @@
     border-bottom: 2px solid #c0c0c0;
     margin-top: 2em;
   }
+
+  .quote {
+    position: relative;
+    padding-left: 32px;
+  }
+
+  .quote:before {
+    content: "“";
+    font-size: 68px;
+    color: #4f575a;
+    position: absolute;
+    left: 0;
+    top: 22px;
+  }
 }
