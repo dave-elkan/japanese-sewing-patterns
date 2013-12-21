@@ -8,7 +8,7 @@ title: Japanese sewing pattern store
     {% for link in site.data.store_links %}
         {% cycle 'open rows': '<div class="row">', nil, nil, nil %}
             <div class="col-md-3 text-center">
-                {% include store_link.html link=link %}
+                {% include store_amazon_link.html link=link %}
             </div>
         {% cycle 'close rows': nil, nil, nil, '</div>' %}
     {% endfor %}
