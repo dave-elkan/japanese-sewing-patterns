@@ -5,8 +5,10 @@ type:  "Review"
 date:   2013-10-31 12:00:10
 categories:
 - reviews
-- popular
-tags: baby, kids, free sewing pattern
+tags:
+- baby
+- kids
+- free sewing patterns
 
 author: Yoshiko Tsukiori
 language: English

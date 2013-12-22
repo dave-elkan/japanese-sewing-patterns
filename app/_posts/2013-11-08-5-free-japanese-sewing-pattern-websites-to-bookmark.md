@@ -4,8 +4,9 @@ title:  "5 Free Japanese sewing pattern websites to bookmark"
 date:   2013-11-08 12:00:10
 categories:
 - free-sewing-patterns
+tags:
 - popular
-tags: free sewing pattern
+- free sewing patterns
 ---
 
 If you’re after a new sewing pattern, why not try something a little different? These websites offer free Japanese

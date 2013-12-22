@@ -5,8 +5,10 @@ type: "Tutorial"
 date: 2013-11-14 12:00:10
 categories:
 - free-sewing-patterns
+tags:
+- free sewing patterns
 - tutorial
-tags: free sewing pattern
+- popular
 
 landscape-image: /img/2013/11/free-japanese-sewing-pattern-in-english-oven-mit-hot-pad/thumb.jpg
 ---

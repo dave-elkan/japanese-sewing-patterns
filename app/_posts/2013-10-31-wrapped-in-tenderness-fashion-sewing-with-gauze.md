@@ -5,7 +5,6 @@ type:  "Tutorial"
 date:   2013-10-31 12:00:10
 categories:
 - reviews
-tags: review
 
 author: Etsuko Sakurai
 language: Japanese
