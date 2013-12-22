@@ -183,8 +183,7 @@ ol > li:before {
   margin: 2em 0;
 }
 
-section {
-
+div.content {
   p a, li a {
     color: $bright-blue;
   }
@@ -192,7 +191,9 @@ section {
   p a:hover, li a:hover {
     text-decoration: underline;
   }
+}
 
+section {
 
   .portrait-image {
     float: right;
