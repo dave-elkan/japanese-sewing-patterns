@@ -6,7 +6,7 @@ date: 2013-11-14 12:00:10
 categories:
 - free-sewing-patterns
 tags:
-- free sewing patterns
+- free
 - tutorial
 - popular
 

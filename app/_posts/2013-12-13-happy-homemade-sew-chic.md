@@ -8,7 +8,6 @@ categories:
 tags:
 - baby
 - kids
-- free sewing patterns
 
 author: Yoshiko Tsukiori
 language: English

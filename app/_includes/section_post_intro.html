@@ -1,0 +1,11 @@
+{% assign postTitle = include.post.id | split: '/' %}
+
+<div class="row">
+    <div class="col-md-7">
+        <a href="{{ include.post.url }}"><img src='{{ site.path }}/img/{{ include.post.date | date: "%Y/%m" }}/{{ postTitle.last }}/thumb.jpg'></a>
+    </div>
+    <div class="col-md-5">
+        <h3><a href="{{ include.post.url }}">{{ include.post.title }}</a></h3>
+        <p>{{ include.post.excerpt }}</p>
+    </div>
+</div>

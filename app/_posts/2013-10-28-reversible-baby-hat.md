@@ -5,7 +5,12 @@ type:  "Tutorial"
 date:   2013-10-28 12:00:10
 categories:
 - free-sewing-patterns
-tags: baby, kids, free sewing patterns, tutorial, popular
+tags:
+- baby
+- kids
+- free
+- tutorial
+- popular
 
 landscape-image: /img/2013/10/reversible-baby-hat/thumb.jpg
 ---

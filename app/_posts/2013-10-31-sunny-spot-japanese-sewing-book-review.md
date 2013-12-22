@@ -5,7 +5,9 @@ type:  "Review"
 date:   2013-10-31 12:00:10
 categories:
 - reviews
-tags: baby, kids, free sewing patterns
+tags:
+- baby
+- kids
 
 author: Mayuko Murata
 language: Japanese

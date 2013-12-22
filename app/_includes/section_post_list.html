@@ -1,0 +1,5 @@
+<h2>{{ page.title }}</h2>
+
+{% for post in include.posts %}
+    {% include section_post_intro.html post=post %}
+{% endfor %}

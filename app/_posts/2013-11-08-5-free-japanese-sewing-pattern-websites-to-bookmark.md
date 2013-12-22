@@ -6,7 +6,6 @@ categories:
 - free-sewing-patterns
 tags:
 - popular
-- free sewing patterns
 ---
 
 If you’re after a new sewing pattern, why not try something a little different? These websites offer free Japanese
