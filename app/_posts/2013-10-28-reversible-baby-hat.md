@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Reversible Baby Hat"
+type:  "Tutorial"
 date:   2013-10-28 12:00:10
 categories:
-- free-patterns
+- free-sewing-patterns
 - popular
+- tutorial
 tags: baby, kids, free sewing pattern
 
-portrait-image: http://stockercary.com/wp-content/uploads/2012/10/flowers-in-the-sun.jpg
+landscape-image: /img/2013/10/reversible-baby-hat/thumb.jpg
 ---
 
 This Japanese sewing pattern for a reversible baby hat is available for free download from the Japanese sewing blog, “Handmade no Kokoro”.

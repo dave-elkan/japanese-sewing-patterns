@@ -29,7 +29,21 @@ layout: default
 
                 {% include amazon_link_post.html asin=page.asin %}
 
-                <div class="content">{{ content }}</div>
+                <div class="content">
+
+                    {% if page.garments %}
+                        <h3>List of Garments ({{ page.total-garments }} in total)</h3>
+
+                        <ul>
+                        {% for garment in page.garments %}
+                            <li>{{ garment }}</li>
+                        {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    {{ content }}
+
+                </div>
 
             </div>
             <div class="col-md-3">
