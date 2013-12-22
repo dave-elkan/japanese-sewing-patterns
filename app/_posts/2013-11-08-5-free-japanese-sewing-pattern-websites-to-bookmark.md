@@ -6,6 +6,7 @@ categories:
 - free-sewing-patterns
 tags:
 - popular
+- free
 
 thumbnail: 5-free-japanese-sewing-pattern-websites-to-bookmark-thumb.jpg
 ---

@@ -2,55 +2,60 @@
 
 - name: Stylish Dress Book
   by: Yoshiko Tsukiori
-  asin: B004XYFHY8
-  description: A Stylish Dress Book
+  asin: 1780671075
+  description: A must have pattern book. Now in English.
 
 - name: Drape Drape
   by: Hisako Sato
   asin: 1856698416
-  description: A Stylish Dress Book
+  description: Modern, flowing styles for fabrics with drape.
 
 - name: Drape Drape 3
   by: Hisako Sato
   asin: 1780671008
-  description: A Stylish Dress Book
+  description: More designs using fabrics with drape.
 
 - name: Girls Clothing
   by: Akiko Mano
   asin: 457911289X
-  description: A Stylish Dress Book
+  description: Dressed-up wardrobe for girls.
 
 - name: Adult Couture Sweet dress book
   by: Yoshiko Tsukiori
-  asin: B004XG485K
-  description: A Stylish Dress Book
+  asin: 1780671083
+  description: Third book in the Stylish Dress Book series. Now in English.
 
-- name: Adult couture Dress tunic blouse
+- name: Adult Couture Dress Tunic Blouse
   by: Yoshiko Tsukiori
-  asin: 4579111850
-  description: A Stylish Dress Book
+  asin: 0804843155
+  description: The original Stylish Dress Book. Now in English.
 
 - name: Girl's clothes sewing pattern book
   by: Yuki Araki
   asin: B0049SRCLO
-  description: A Stylish Dress Book
+  description: More girls clothes for speical occasions.
 
-- name: Feminine wardrobe
+- name: Feminine Wardrobe
   by: Jinko Matsumoto
-  asin: 4579112903
-  description: A Stylish Dress Book
+  asin: 1780671245
+  description: One of my favourites. Now in English.
 
 - name: A sunny spot - Everyday clothes for littel girls
   by: Vogue Sya
   asin: 4529050696
-  description: A Stylish Dress Book
+  description: Casual chic for girls. Review available.
 
 - name: Simple Chic Dress up Dress down
   by: Machiko Kayaki
   asin: B0050RQ6TW
-  description: A Stylish Dress Book
+  description: Classic pieces with styling tips.
 
 - name: Even though Easy Good Looking
   by: Machiko Kayaki
   asin: B0050RHPRY
-  description: A Stylish Dress Book
+  description: More relaxed and mature styles. Very easy sewing.
+
+- name: The Mens Shirt Book
+  by: Ryūichirō Shimazaki
+  asin: 4579111109
+  description: Perfect the art of sewing mens shirts.
