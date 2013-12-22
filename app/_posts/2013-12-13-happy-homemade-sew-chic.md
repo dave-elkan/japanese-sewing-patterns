@@ -2,7 +2,7 @@
 layout: review
 title:  "Happy Homemade Sew Chic"
 type:  "Review"
-date:   2013-10-31 12:00:10
+date:   2013-12-13 12:00:10
 categories:
 - reviews
 tags:
