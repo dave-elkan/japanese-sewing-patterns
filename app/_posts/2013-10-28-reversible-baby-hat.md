@@ -12,7 +12,8 @@ tags:
 - tutorial
 - popular
 
-landscape-image: /img/2013/10/reversible-baby-hat/thumb.jpg
+thumbnail: reversible-baby-hat-thumb.jpg
+landscape-image: reversible-baby-hat-thumb.jpg
 ---
 
 This Japanese sewing pattern for a reversible baby hat is available for free download from the Japanese sewing blog,

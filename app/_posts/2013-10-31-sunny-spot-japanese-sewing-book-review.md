@@ -9,6 +9,8 @@ tags:
 - baby
 - kids
 
+thumbnail: sunny-spot-japanese-sewing-book-review-thumb.jpg
+
 author: Mayuko Murata
 language: Japanese
 genre: Girls casual clothing

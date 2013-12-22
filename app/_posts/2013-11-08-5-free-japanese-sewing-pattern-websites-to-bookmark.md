@@ -6,6 +6,8 @@ categories:
 - free-sewing-patterns
 tags:
 - popular
+
+thumbnail: 5-free-japanese-sewing-pattern-websites-to-bookmark-thumb.jpg
 ---
 
 If you’re after a new sewing pattern, why not try something a little different? These websites offer free Japanese

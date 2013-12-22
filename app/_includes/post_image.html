@@ -1,13 +1,13 @@
-{% if include.landscape-image %}
+{% if include.page.landscape-image %}
     <div class="row">
         <div class="col-md-11 col-md-offset-1 landscape-image">
-            <img src="{{ include.landscape-image }}" />
+            <img src='{{ site.path }}/img/{{ include.page.date | date: "%Y/%m" }}/{{ include.page.landscape-image }}' />
         </div>
     </div>
 {% else %}
-    {% if include.portrait-image %}
+    {% if include.page.portrait-image %}
         <div class="portrait-image">
-            <img src="{{ include.portrait-image }}" />
+            <img src='{{ site.path }}/img/{{ include.page.date | date: "%Y/%m" }}/{{ include.page.portrait-image }}' />
         </div>
     {% endif %}
 {% endif %}

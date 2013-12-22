@@ -10,7 +10,8 @@ tags:
 - tutorial
 - popular
 
-landscape-image: /img/2013/11/free-japanese-sewing-pattern-in-english-oven-mit-hot-pad/thumb.jpg
+thumbnail: free-japanese-sewing-pattern-in-english-oven-mit-hot-pad-thumb.jpg
+landscape-image: free-japanese-sewing-pattern-in-english-oven-mit-hot-pad-thumb.jpg
 ---
 
 

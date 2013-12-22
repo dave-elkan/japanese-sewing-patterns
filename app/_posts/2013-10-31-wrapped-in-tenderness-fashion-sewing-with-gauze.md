@@ -6,6 +6,8 @@ date:   2013-11-10 12:00:10
 categories:
 - reviews
 
+thumbnail: wrapped-in-tenderness-fashion-sewing-with-gauze-thumb.jpg
+
 author: Etsuko Sakurai
 language: Japanese
 genre: Womens casual clothing

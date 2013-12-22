@@ -9,6 +9,8 @@ tags:
 - baby
 - kids
 
+thumbnail: happy-homemade-sew-chic-thumb.jpg
+
 author: Yoshiko Tsukiori
 language: English
 genre: Women’s casual clothing

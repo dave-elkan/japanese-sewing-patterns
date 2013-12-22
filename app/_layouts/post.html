@@ -8,7 +8,7 @@ layout: default
                 <h2>{{ page.title }}</h2>
                 <p class="meta">{{ page.date | date_to_string }}</p>
 
-                {% include post_image.html landscape-image=page.landscape-image portrait-image=page.portrait-image %}
+                {% include post_image.html page=page %}
 
                 <div class="content">{{ content }}</div>
 
