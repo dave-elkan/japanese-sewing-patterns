@@ -1,7 +1,7 @@
 ---
 layout: review
 title:  "Wrapped in Tenderness (Fashion Sewing with Gauze)"
-type:  "Tutorial"
+type:  "Review"
 date:   2013-11-10 12:00:10
 categories:
 - reviews

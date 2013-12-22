@@ -24,7 +24,9 @@ garments:
 - Plus 3 adult size women’s dresses
 ---
 
-A Sunny Spot is a must have book if you have daughters or granddaughters! In Japanese, the book title is Everyday Clothes for Girls. The garments are casual and relaxed enough to wear as play clothes and to wear to school. Some outfits can also be dressed up to wear on a stylish day out.
+A Sunny Spot is a must have book if you have daughters or granddaughters! In Japanese, the book title is Everyday
+Clothes for Girls. The garments are casual and relaxed enough to wear as play clothes and to wear to school. Some
+outfits can also be dressed up to wear on a stylish day out.
 
 ### Highlights
 
