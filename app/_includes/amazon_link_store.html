@@ -1,7 +1,7 @@
 <a class="imageLink" href="http://www.amazon.com/gp/product/{{ include.link.asin }}/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN={{ include.link.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_id }}" style="background-image: url(http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ include.link.asin }}&Format=_SL300_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag={{ site.amazon_affilliate_id }})">
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t={{ site.amazon_affilliate_id }}&l=as2&o=1&a={{ include.link.asin }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </a>
-<a href="http://www.amazon.com/gp/product/{{ include.link.asin }}/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN={{ include.link.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_id }}">
+<a class="amazon-link" href="http://www.amazon.com/gp/product/{{ include.link.asin }}/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN={{ include.link.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_id }}">
     <h4>{{ link.name }}</h4>
     <h6>By {{ link.by }}</h6>
     <p>{{ link.description }}</p>
