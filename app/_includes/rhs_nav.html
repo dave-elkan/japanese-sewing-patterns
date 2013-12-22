@@ -1,6 +1,6 @@
 <a href="{{ site.path}}/store"><h3>Recommended books</h3></a>
 {% for link in site.data.store_links %}
-    {% if forloop.index0 < 4 %}
+    {% if forloop.index0 < 5 %}
         {% include rhs_amazon_link.html link=link %}
     {% endif %}
 {% endfor %}
