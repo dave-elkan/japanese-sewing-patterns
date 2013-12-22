@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<section class="review">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9">
+                <h2>{{ page.title }}</h2>
+                <p class="meta">{{ page.date | date_to_string }}</p>
+
+                <table class="table table-condensed">
+                    <thead>
+                        <tr>
+                            <th>Author</th>
+                            <th>Language</th>
+                            <th>Genre</th>
+                            <th>Sizing</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{{ page.author }}</td>
+                            <td>{{ page.language }}</td>
+                            <td>{{ page.genre }}</td>
+                            <td>{{ page.sizing }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                {% include amazon_link_post.html asin=page.asin %}
+
+                <div class="content">{{ content }}</div>
+
+            </div>
+            <div class="col-md-3">
+                {% include rhs_nav.html %}
+            </div>
+        </div>
+    </div>
+</section>

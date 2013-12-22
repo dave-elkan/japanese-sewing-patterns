@@ -1,10 +1,7 @@
 @import "../_bower_components/sass-bootstrap/lib/bootstrap";
 @import url(http://fonts.googleapis.com/css?family=Crimson+Text);
 @import "../_bower_components/fancybox/source/jquery.fancybox.css";
-
-$small-thumbnail-max-height: 216px;
-$large-thumbnail-max-height: 362px;
-$nav-font-size: 1.2em;
+@import "variables";
 
 @mixin fancy-font {
   font-family: 'Crimson Text', serif;
@@ -126,7 +123,7 @@ section.e-book {
   }
 
   h4 {
-    color: #00BFFF;
+    color: $bright-blue;
   }
 
   .row {
@@ -165,7 +162,7 @@ ol > li:before {
   width: 1.5em;
   margin-right: 8px;
   padding: 4px;
-  color: #00BFFF;
+  color: $bright-blue;
   font-size: 22px;
   font-weight: bold;
   text-align: center;
@@ -173,7 +170,7 @@ ol > li:before {
 
 .btn.blue {
   color: #FFF;
-  background-color: #00BFFF;
+  background-color: $bright-blue;
   border: none;
   border-radius: 3px;
   padding: 0.5em 2em;
@@ -187,16 +184,20 @@ ol > li:before {
   margin: 2em 0;
 }
 
-section.post {
+section {
+
+  .content a {
+    color: $bright-blue;
+  }
+
+  .content a:hover {
+    text-decoration: underline;
+  }
+
 
   .portrait-image {
     float: right;
     margin: 0 0 1em 1em;
-
-    img {
-      width: 350px;
-      height: 467px;
-    }
   }
 
   .landscape-image img {
@@ -205,6 +206,23 @@ section.post {
     margin: 1em;
   }
 
+}
+
+section.post {
+  .portrait-image {
+    img {
+      width: 350px;
+      height: 467px;
+    }
+  }
+}
+
+section.review {
+  .portrait-image {
+    a {
+      width: auto;
+    }
+  }
 }
 
 section.footer {
