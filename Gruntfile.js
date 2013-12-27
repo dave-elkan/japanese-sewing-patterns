@@ -106,7 +106,7 @@ module.exports = function (grunt) {
     },
     sass: {
       options: {
-        bundleExec: true,
+        bundleExec: false,
         debugInfo: false,
         lineNumbers: false,
         loadPath: 'app/_bower_components'
@@ -157,7 +157,7 @@ module.exports = function (grunt) {
     },
     jekyll: {
       options: {
-        bundleExec: true,
+        bundleExec: false,
         config: '_config.yml,_config.build.yml',
         src: '<%= yeoman.app %>'
       },
@@ -308,7 +308,7 @@ module.exports = function (grunt) {
     },
     csscss: {
       options: {
-        bundleExec: true,
+        bundleExec: false,
         minMatch: 2,
         ignoreSassMixins: false,
         colorize: true,

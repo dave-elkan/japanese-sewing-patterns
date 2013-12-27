@@ -31,21 +31,27 @@ gathering and ruffling details. This sewing book is more fashion forward than yo
 
 ### Highlights
 
-Design C - Big puff blouse and “dokata” pants
+**Design C - Big puff blouse and “dokata” pants**
 
 This blouse is so understated and chic. It reminds me of something from a Madewell catalogue. The conservative neckline
 is off-set by the puff sleeves with a dramatic slit in the arm. It matches perfectly with the casual, ethnic style pants.
 
-Design L - Shirring blouse and easy pants
+![Design C - Puff sleeve blouse](/img/2013/10/Japanese-sewing-pattern-book-review-inner-child-1-blouse.jpg "Design C - Puff sleeve blouse")
+
+**Design L - Shirring blouse and easy pants**
 
 It’s amazing what gathering and ruffles can do to gauze. This sleeveless blouse kept from being too girly with the use
 of a cool, grey fabric. The pants have a drawstring waist and two front pockets. It’s a handy sewing pattern to have on
 hand to make relaxed, weekend wear. I think these pants would work well made out of linen too.
 
-Design M - Bow tie blouse of organic cotton gauze
+![Design L - Blouse and pants](/img/2013/10/Japanese-sewing-pattern-book-review-inner-child-1-ruched-top.jpg "Design L - Blouse and pants")
+
+**Design M - Bow tie blouse of organic cotton gauze**
 
 This blouse is the casual version of the tuxedo shirt. The front bow and ruffles, gathered cuff and the elastic
 waistline keeps the design uniquely feminine. The book’s cover also features this design.
+
+![Design M - Ruffle tunic](/img/2013/10/Japanese-sewing-pattern-book-review-inner-child-1-tunic.jpg "Design L - Blouse and pants")
 
 ### Conclusion
 

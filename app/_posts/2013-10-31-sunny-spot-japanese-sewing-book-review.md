@@ -38,10 +38,18 @@ This beautifully photographed book gives you lots of styling ideas for the garme
 
 The sewing process for Pattern D is included in the book as a step-by-step tutorial. The photos help you to understand the more complicated steps.
 
+![Design D - Peter Pan Collar Dress](/img/2013/10/Japanese-sewing-book-reivew-a-sunny-spot-girls-clothes-peter-pan-collar.jpg "Design D - Peter Pan Collar Dress")
+
 **Pattern F, Camisole and Pants** looks like a romper when worn together. How clever!
 
+![Design F - Romper](/img/2013/10/Japanese-sewing-book-reivew-a-sunny-spot-girls-clothes-romper.jpg "Design F - Romper")
+
 **Pattern O, Border Knit Coat** is a little bit grown-up, but I think it would be a great piece to get through the cooler days in spring and fall. A sewing pattern for the detachable fur collar is also included in this book.
+
+![Design O - Coat](/img/2013/10/Japanese-sewing-book-reivew-a-sunny-spot-girls-clothes-coat.jpg "Design O - Coat")
 
 ### Conclusion
 
 No wonder this book is a best seller in Japan. It’s not only beautiful to look at, but the sewing patterns produce practical, but unique clothes for little girls. You can check out the author’s blog, [A Sunny Spot](http://blog.a-sunny-spot.com/) to see her latest projects.
+
+![A Sunny Spot Japanese sewing pattern](/img/2013/10/Japanese-sewing-book-reivew-a-sunny-spot-girls-clothes-Pinterest.jpg "A Sunny Spot Japanese sewing pattern")

@@ -49,6 +49,16 @@ h1, h2, h3  {
   }
 }
 
+.logo h1 a {
+  background: transparent url(/img/site/JSPbySIL-website-header-logo-600x140.png) 0 -27px no-repeat;
+  width: 600px;
+  height: 140px;
+
+  span {
+    text-offset: -1000px;
+  }
+}
+
 section.about div.container {
 
   @include fancy-font;
@@ -260,5 +270,15 @@ a.amazon-link p {
 section.section_list {
   .row {
     margin-top: 2em;
+  }
+}
+
+div.rhs {
+  h4 {
+    margin-top: 0;
+  }
+
+  p {
+    line-height: 1.5em
   }
 }
