@@ -1,4 +1,4 @@
-<a href="{{ site.path}}/recommended-books"><h3>Recommended books</h3></a>
+<a href="{{ site.path}}/recommended-pattern-books"><h3>Recommended books</h3></a>
 {% for link in site.data.store_links %}
     {% if forloop.index0 < 5 %}
         {% include amazon_link_rhs.html link=link %}

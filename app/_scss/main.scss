@@ -7,7 +7,7 @@
 }
 
 body {
-  padding-top: 15px;
+  padding-top: 10px;
   font: 16px/26px Helvetica,Helvetica Neue,Arial;
 }
 
@@ -52,9 +52,9 @@ h1, h2, h3  {
 .logo h1 a {
   span {
     font: 16px/26px Helvetica,Helvetica Neue,Arial;
-    background: transparent url(../img/site/JSPbySIL-website-header-logo-600x140.png) 0 -27px no-repeat;
+    background: transparent url(../img/site/JSPbySIL-website-header-logo-550x79.png) 0 0 no-repeat;
     width: 550px;
-    height: 96px;
+    height: 79px;
     display: block;
     text-indent: -1000px;
   }
@@ -65,7 +65,14 @@ section.about div.container {
   @include fancy-font;
   font-size: $nav-font-size;
 
-  text-align: right;
+  div.col-md-10 {
+    text-align: right;
+
+    a {
+      line-height: 1.75em;
+    }
+  }
+
 }
 
 section.header div.container {
