@@ -50,12 +50,13 @@ h1, h2, h3  {
 }
 
 .logo h1 a {
-  background: transparent url(/img/site/JSPbySIL-website-header-logo-600x140.png) 0 -27px no-repeat;
-  width: 600px;
-  height: 140px;
-
   span {
-    text-offset: -1000px;
+    font: 16px/26px Helvetica,Helvetica Neue,Arial;
+    background: transparent url(../img/site/JSPbySIL-website-header-logo-600x140.png) 0 -27px no-repeat;
+    width: 550px;
+    height: 96px;
+    display: block;
+    text-indent: -1000px;
   }
 }
 
@@ -82,8 +83,8 @@ section.header div.container {
   }
 
   h1 {
-    font-size: 3em;
-    margin-top: 0.62em;
+    font-size: 2em;
+    margin-top: 0.5em;
     font-family: inherit;
   }
 
