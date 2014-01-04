@@ -1,12 +1,13 @@
 ---
 layout: default
+type: post
 ---
 <section class="review">
     <div class="container">
         <div class="row">
             <div class="col-md-9">
-                <h2>{{ page.title }}</h2>
-                <p class="meta">{{ page.date | date_to_string }}</p>
+
+                {% include post_title.html %}
 
                 <table class="table table-condensed">
                     <thead>

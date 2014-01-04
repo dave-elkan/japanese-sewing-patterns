@@ -1,5 +1,6 @@
-@import "../_bower_components/sass-bootstrap/lib/bootstrap";
+@import "bootstrap";
 @import url(http://fonts.googleapis.com/css?family=Crimson+Text);
+@import "social-icon-font";
 @import "variables";
 
 @mixin fancy-font {
@@ -235,6 +236,20 @@ section.post {
   }
 }
 
+.postTitle {
+
+  margin-bottom: 1.25em;
+
+  h2 {
+    margin-top: 0;
+  }
+
+  .social-buttons {
+    text-align: right;
+  }
+}
+
+
 section.review {
   .portrait-image {
     a {
@@ -286,5 +301,30 @@ div.rhs {
 
   p {
     line-height: 1.5em
+  }
+}
+
+.social-buttons {
+
+  a:before {
+    font-size: 1.5em;
+    vertical-align: bottom;
+    margin: 0 .1em;
+  }
+
+  a.icon-twitter:before {
+    color: #55ACEE
+  }
+
+  a.icon-facebook:before {
+    color: #4c66a4;
+  }
+
+  a.icon-googleplus:before {
+    color: #d34836
+  }
+
+  a.icon-pinterest:before {
+    color: #d34836
   }
 }

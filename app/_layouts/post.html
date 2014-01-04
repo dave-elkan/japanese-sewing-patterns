@@ -1,13 +1,13 @@
 ---
 layout: default
+type: post
 ---
 <section class="post">
     <div class="container">
         <div class="row">
             <div class="col-md-9">
-                <h2>{{ page.title }}</h2>
-                <p class="meta">{{ page.date | date_to_string }}</p>
 
+                {% include post_title.html %}
                 {% include post_image.html page=page %}
 
                 <div class="content">{{ content }}</div>
