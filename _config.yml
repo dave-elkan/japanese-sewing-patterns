@@ -6,7 +6,8 @@
 # Use _config.build.yml to override these settings on `grunt build`.
 
 name: japanesesewingpatterns.com
-description: 
+url: http://japanesesewingpatterns.com
+description:
 
 author:
   name: Rin Gomura

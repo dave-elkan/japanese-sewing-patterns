@@ -185,7 +185,7 @@ module.exports = function (grunt) {
       options: {
         dest: '<%= yeoman.dist %>'
       },
-      html: '<%= yeoman.dist %>/index.html'
+      html: ['<%= yeoman.dist %>/index.html', '<%= yeoman.dist %>/ebook/index.html', '<%= yeoman.dist %>/reviews/2013/10/31/sunny-spot-japanese-sewing-book-review.html']
     },
     usemin: {
       options: {
@@ -259,10 +259,10 @@ module.exports = function (grunt) {
             'img/**/*',
             'fonts/**/*',
             // Like Jekyll, exclude files & folders prefixed with an underscore
-            '!**/_*{,/**}'
+            '!**/_*{,/**}',
             // Explicitly add any files your site needs for distribution here
             //'_bower_components/jquery/jquery.js',
-            //'favicon.ico',
+            'favicon.ico'
             //'apple-touch*.png'
           ],
           dest: '<%= yeoman.dist %>'
@@ -341,7 +341,25 @@ module.exports = function (grunt) {
         'sass:dist',
         'copy:dist'
       ]
-    }
+    },
+      rsync: {
+          options: {
+              args: ["--verbose"],
+              exclude: [".git*","*.scss","node_modules"],
+              recursive: true
+          },
+
+          prod: {
+              options: {
+                  src: "dist/",
+                  dest: "sites/japanesesewingpatterns.com",
+                  host: "edavenet@direct.edave.net",
+                  port: "2683",
+                  ssh: true,
+                  syncDestIgnoreExcl: true
+              }
+          }
+      }
   });
 
   // Define Tasks
