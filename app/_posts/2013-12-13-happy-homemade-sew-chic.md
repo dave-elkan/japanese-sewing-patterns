@@ -55,3 +55,5 @@ wearing a smart belt. It’s nice to have comfort whilst still achieving a tailo
 Whilst the designs are not as exciting or unique as her other books, Happy Homemade is a great introduction to Japanese
 sewing patterns. Whether it’s your first Japanese sewing book, or your first foray into dressmaking, you’ll definitely
 find success with this book.
+
+Thank you to Tuttle Books for providing the book for this review.
