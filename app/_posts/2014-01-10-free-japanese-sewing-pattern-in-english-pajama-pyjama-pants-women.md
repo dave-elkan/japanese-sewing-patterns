@@ -22,7 +22,6 @@ This Japanese sewing pattern for women's elastic waist pants is available for fr
 I made a pair of pajama pants using flannelette fabric and added a satin bow at the waist to keep it feminine.
 
 {% include post_split_image.html leftSrc = '/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-frontview.jpg' leftDesc = 'Free pyjama pajama sewing pattern front' rightSrc = '/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-sideview.jpg' rightDesc = 'Free pyjama pajama sewing pattern side' %}
-</div>
 
 Please visit Nani-Iro and [DOWNLOAD THE FREE SEWING PATTERN](http://naniiro.jp/textile/pdf/ouchi_pm.pdf).
 
