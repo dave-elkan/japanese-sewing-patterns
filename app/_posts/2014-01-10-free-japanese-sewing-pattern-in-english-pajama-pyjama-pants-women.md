@@ -43,7 +43,7 @@ The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only
 
 - Fabric - 80 cm x 220cm or 22.8 x 9.5 inches
 - Elastic^ - width 2.5cm or 1 inch
-- Satin ribbon^ - width 2cm or ? inch
+- Satin ribbon^ - width 2cm or 4/5 inch
 
 ^ *Please adjust length to fit.*
 
@@ -63,7 +63,7 @@ The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only
 
 	![Step 2 of Pajama pants](/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-step2.jpg "Step 2 of Pajama pants")
 
-3. For the centre front seam, fold down 3mm (?inch) and stitch to create an opening for inserting elastic later. Then, stitch the centre front seam up to the opening. Zig-zag stitch seams together.
+3. For the centre front seam, fold down 3mm (1/10 inch) and stitch to create an opening for inserting elastic later. Then, stitch the centre front seam up to the opening. Zig-zag stitch seams together.
 
 	![Step 3 of Pajama pants](/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-step3.jpg "Step 3 of Pajama pants")
 
