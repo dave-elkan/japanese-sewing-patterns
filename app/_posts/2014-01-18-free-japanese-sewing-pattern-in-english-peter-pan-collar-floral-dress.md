@@ -22,7 +22,7 @@ This Japanese sewing pattern for a sweet, peter pan collar floral dress is avail
 
 This dress has a coordinating version available for little girls. The free sewing pattern for girls will be translated very soon!
 
-![Free peter pan collar floral dress sewing pattern](/img/2014/01/Peter-pan-collar-dress-sewing-pattern-Rin-Pinterest.jpg "Free peter pan collar floral dress sewing pattern")
+{% include post_image_right.html alt="Free peter pan collar floral dress sewing pattern" src="/img/2014/01/Peter-pan-collar-dress-sewing-pattern-Rin-Pinterest.jpg" %}
 
 Please visit Clover Japan and [DOWNLOAD THE FREE SEWING PATTERN](http://www.clover.co.jp/recipe/c282otonawanpi.pdf).
 

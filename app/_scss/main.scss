@@ -334,7 +334,6 @@ div.rhs {
   margin: 1em 0 1.5em 0;
 }
 
-
 .review, .post {
   .panel {
     margin-top: 2em;
@@ -343,4 +342,9 @@ div.rhs {
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     }
   }
+}
+
+.image-right img {
+  float: right;
+  margin: 0 0 1.5em 1.5em;
 }
