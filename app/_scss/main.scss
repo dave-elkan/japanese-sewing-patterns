@@ -334,6 +334,13 @@ div.rhs {
   margin: 1em 0 1.5em 0;
 }
 
-.panel h3 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+.review, .post {
+  .panel {
+    margin-top: 2em;
+
+    h3 {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+  }
 }
