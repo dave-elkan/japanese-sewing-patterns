@@ -328,3 +328,19 @@ div.rhs {
     color: #d34836
   }
 }
+
+.splitImage > div {
+  text-align: center;
+  margin: 1em 0 1.5em 0;
+}
+
+
+.review, .post {
+  .panel {
+    margin-top: 2em;
+
+    h3 {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+  }
+}

@@ -19,11 +19,9 @@ landscape-image: Free-pajama-pants-sewing-pattern-flanelette-thumb.jpg
 This Japanese sewing pattern for women's elastic waist pants is available for free download from the Japanese fabric store,
 *Nani-Iro*. They make beautiful, bright fabrics!
 
-I made a pair of pajama pants using flanelette fabric and added a satin bow at the waist to keep it feminine.
+I made a pair of pajama pants using flannelette fabric and added a satin bow at the waist to keep it feminine.
 
-![Free pyjama pajama sewing pattern front](/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-frontview.jpg "Free pyjama pajama sewing pattern front")
-
-![Free pyjama pajama sewing pattern side](/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-sideview.jpg "Free pyjama pajama sewing pattern side")
+{% include post_split_image.html leftSrc = '/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-frontview.jpg' leftDesc = 'Free pyjama pajama sewing pattern front' rightSrc = '/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-sideview.jpg' rightDesc = 'Free pyjama pajama sewing pattern side' %}
 
 Please visit Nani-Iro and [DOWNLOAD THE FREE SEWING PATTERN](http://naniiro.jp/textile/pdf/ouchi_pm.pdf).
 
@@ -45,11 +43,11 @@ The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only
 
 - Fabric - 80 cm x 220cm or 22.8 x 9.5 inches
 - Elastic^ - width 2.5cm or 1 inch
-- Satin ribbon^ - width 2cm or ? inch
+- Satin ribbon^ - width 2cm or 4/5 inch
 
 ^ *Please adjust length to fit.*
 
-*Fabric Suggestions: cotton, linen, flanelette*
+*Fabric Suggestions: cotton, linen, flannelette*
 
 **Approximate Sewing Time**
 
@@ -65,7 +63,7 @@ The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only
 
 	![Step 2 of Pajama pants](/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-step2.jpg "Step 2 of Pajama pants")
 
-3. For the centre front seam, fold down 3mm (?inch) and stitch to create an opening for inserting elastic later. Then, stitch the centre front seam up to the opening. Zig-zag stitch seams together.
+3. For the centre front seam, fold down 3mm (1/10 inch) and stitch to create an opening for inserting elastic later. Then, stitch the centre front seam up to the opening. Zig-zag stitch seams together.
 
 	![Step 3 of Pajama pants](/img/2014/01/Free-pajama-pants-sewing-pattern-flanelette-step3.jpg "Step 3 of Pajama pants")
 
