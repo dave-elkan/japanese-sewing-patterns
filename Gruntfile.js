@@ -348,7 +348,7 @@ module.exports = function (grunt) {
                 stdout: true
             },
 
-            command: "s3cmd sync --delete-removed ./dist/ s3://japanesesewingpatterns.com/"
+            command: "s3cmd sync --delete-removed ./dist/ s3://www.japanesesewingpatterns.com/"
         }
     }
   });
