@@ -342,24 +342,15 @@ module.exports = function (grunt) {
         'copy:dist'
       ]
     },
-      rsync: {
-          options: {
-              args: ["--verbose"],
-              exclude: [".git*","*.scss","node_modules"],
-              recursive: true
-          },
+    shell: {
+        sync: {
+            options: {
+                stdout: true
+            },
 
-          prod: {
-              options: {
-                  src: "dist/",
-                  dest: "sites/japanesesewingpatterns.com",
-                  host: "edavenet@direct.edave.net",
-                  port: "2683",
-                  ssh: true,
-                  syncDestIgnoreExcl: true
-              }
-          }
-      }
+            command: "s3cmd sync --delete-removed ./dist/ s3://japanesesewingpatterns.com/"
+        }
+    }
   });
 
   // Define Tasks
