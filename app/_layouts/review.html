@@ -28,6 +28,14 @@ type: post
                     </tbody>
                 </table>
 
+                {% if page.video %}
+                <div class="row">
+                    <div class="text-center">
+                        <iframe width="853" height="480" src="//www.youtube.com/embed/{{ include.page.video }}" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+                {% endif %}
+
                 {% include amazon_link_post.html asin=page.asin %}
 
                 <div class="content">
