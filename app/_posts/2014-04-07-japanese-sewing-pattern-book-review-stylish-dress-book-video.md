@@ -26,7 +26,7 @@ garments:
 
 Stylish Dress Book is the book that really fuelled the popularity of Japanese sewing pattern books internationally. Even though the original Japanese version was published back in 2008, Stylish Dress Book remains extremely...well, stylish!
 
-I've done a video book review, available on YouTube for this book. It makes it easier to share more pictures from the book. I hope you like it.
+I've done a video tutorial, available on YouTube for this book. It makes it easier to share more pictures from the book. I hope you like it.
 
 ### Highlights
 
