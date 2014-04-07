@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "Video book review: Stylish Dress Book - Wear with Freedom"
+title:  "Video book review: Girls Style Book"
 type:  "Review"
 date:   2014-04-07 12:00:10
 categories:
