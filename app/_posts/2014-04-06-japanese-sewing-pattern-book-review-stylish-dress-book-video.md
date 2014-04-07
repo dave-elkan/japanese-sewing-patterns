@@ -2,7 +2,7 @@
 layout: review
 title:  "Video book review: Stylish Dress Book - Wear with Freedom"
 type:  "Review"
-date:   2014-04-07 12:00:10
+date:   2014-04-06 17:15:00
 categories:
 - reviews
 tags:
