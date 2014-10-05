@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "Happy Homemade Sew Chic"
+title:  "Vide Book Review - Happy Homemade Sew Chic"
 type:  "Review"
 date:   2013-12-13 12:00:10
 categories:
@@ -10,6 +10,7 @@ tags:
 - kids
 
 thumbnail: happy-homemade-sew-chic-thumb.jpg
+video: ZSmMNA-36CM
 
 author: Yoshiko Tsukiori
 language: English
@@ -35,8 +36,7 @@ straight-cut styles. This means instead of a sewing pattern, rectangles are used
 
 **Design L - Straight-cut Sarouel Pants**
 
-These pants are featured on the cover of the book. I really like the ethnic vibe of this relaxed pattern. The cropped length is just perfect to wear with summer sandals
-and flats. I plan on making a pair out of Indonesian batik print fabric.
+These harem pants are featured on the cover of the book. I really like the ethnic vibe of this relaxed pattern. The cropped length is just perfect to wear with summer sandals and flats. You can see over on my blog, Sew in Love, I've made myself a pair: [Harem pants made from batik print fabric.](http://www.sewinlove.com.au/2014/10/05/japanese-sewing-pattern-harem-pants-happy-homemade-sew-chic/?utm_source=jsp&utm_medium=textlink&utm_campaign=happyhomemade)
 
 **Design S - Sleeveless Blouse with Frill**
 
