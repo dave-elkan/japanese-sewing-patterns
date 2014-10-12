@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "Vide Book Review - Happy Homemade Sew Chic"
+title:  "Video Book Review - Happy Homemade Sew Chic"
 type:  "Review"
 date:   2013-12-13 12:00:10
 categories:
@@ -48,7 +48,7 @@ You’ll become a master of gathering fabric once you’re done making this piec
 The cuffs and belt loops make these shorts suitable for casual outings. The elastic waistband is cleverly hidden by
 wearing a smart belt. It’s nice to have comfort whilst still achieving a tailored-look.
 
-![Design S & T Happy Homemade Japanese sewing pattern book](/img/2013/12/happy-homemade-sew-chic-thumb.jpg "This is the image")
+![Design S & T Happy Homemade Japanese sewing pattern book](/img/2013/12/happy-homemade-sew-chic-thumb.jpg "Happy Homemade harem pants")
 
 ### Conclusion
 
