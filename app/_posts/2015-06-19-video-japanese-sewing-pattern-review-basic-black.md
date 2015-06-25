@@ -1,6 +1,6 @@
 ---
 layout: review
-title:  "Video book review: Basic Black"
+title:  "Video book review: Basic Black Japanese Sewing Patterns"
 type:  "Review"
 date:   2015-06-19 12:00:10
 categories:
@@ -12,7 +12,7 @@ video: uuTFuiVOGdM
 author: Sato Watanabe
 language: English
 genre: Womens casual clothing
-sizing:
+sizing: US Sizes - XS, S, M & L
 asin: 4805313080
 total-garments: 26
 garments:
