@@ -7,9 +7,20 @@ $(function() {
       expires.setTime(+ expires + (90 * 86400000));
       document.cookie = JSP_POPUP + "=1; expires=" + expires.toGMTString() + "; path=/";
       $("#jspModal").modal();
+      ga('send', 'event', 'Samples', 'popup', 'Popup displayed');
       setTimeout(function() {
         $("#jspPopupEmail").focus();
-      }, 200)
+      }, 200);
+
+      $("#jspModal form").submit(function(e) {
+        var value = $.trim($("#jspPopupEmail").val());
+        if (value && value != "") {
+          ga('send', 'event', 'Samples', 'popup', 'Popup submitted');
+        } else {
+          ga('send', 'event', 'Samples', 'popup', 'Popup submit failed');
+          e.preventDefault()
+        }
+      });
     }, 15000);
   }
 });
