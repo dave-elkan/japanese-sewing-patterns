@@ -23,7 +23,7 @@ $(function() {
       });
 
       $("#jspModal").on("hide.bs.modal", function() {
-        ga('send', 'event', 'Samples', 'popup submit closed', 'Popup submit closed');
+        ga('send', 'event', 'Samples', 'popup submit closed', 'Popup closed');
       });
     }, 0);
   //}
