@@ -1,5 +1,4 @@
 $(function() {
-
   var JSP_POPUP = "jspPopup";
   var hasCookie = document.cookie.indexOf(JSP_POPUP) >= 0;
   if (!hasCookie) {
@@ -9,8 +8,8 @@ $(function() {
       document.cookie = JSP_POPUP + "=1; expires=" + expires.toGMTString() + "; path=/";
       $("#jspModal").modal();
       setTimeout(function() {
-        $("#jspPopupName").focus();
+        $("#jspPopupEmail").focus();
       }, 200)
-    }, 0);
+    }, 15000);
   }
 });
