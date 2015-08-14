@@ -1,7 +1,7 @@
 $(function() {
   var JSP_POPUP = "jspPopup";
   var hasCookie = document.cookie.indexOf(JSP_POPUP) >= 0;
-  //if (!hasCookie) {
+  if (!hasCookie) {
     setTimeout(function() {
       var expires = new Date();
       expires.setTime(+ expires + (90 * 86400000));
@@ -26,6 +26,6 @@ $(function() {
       $jspModal.on("hide.bs.modal", function() {
         ga('send', 'event', 'Samples', 'popup closed', 'Popup closed');
       });
-    }, 0);
-  //}
+    }, 15000);
+  }
 });
