@@ -1,4 +1,20 @@
 ---
+- name: The Dress
+  by: Tomoe Shinohara
+  asin: 4579115317
+  description: 12 vintage inspired dresses.
+
+- name: The Clutches
+  by: Kawade Shobo
+  asin: 4309285228
+  description: Entire book dedicated to making your dream clutch bag.
+  amazon_japan: "true"
+
+- name: Shaped Clothes
+  by: Asuka Hamada
+  asin: 4579115171
+  description: Effortlessly cool draped minimalist styles.
+  amazon_japan: "true"
 
 - name: Stylish Dress Book
   by: Yoshiko Tsukiori
