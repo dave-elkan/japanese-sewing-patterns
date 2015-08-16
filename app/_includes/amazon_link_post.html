@@ -1,11 +1,11 @@
 <div class="portrait-image">
   {% if include.amazon_japan == "true" %}
-    <a class="amazon-link" target="_blank" href="http://www.amazon.co.jp/gp/product/{{ include.asin }}/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN={{ include.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_jp_id }}">
+    <a class="amazon-link" target="_blank" data-asin="{{ include.asin }}" href="http://www.amazon.co.jp/gp/product/{{ include.asin }}/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN={{ include.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_jp_id }}">
       <img src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ include.asin }}&Format=_SL450_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag={{ site.amazon_affilliate_jp_id }}" />
       <img src="http://ir-jp.amazon-adsystem.com/e/ir?t={{ site.amazon_affilliate_jp_id }}&l=as2&o=9&a={{ include.asin }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     </a>
   {% else %}
-    <a class="amazon-link" target="_blank" href="http://www.amazon.com/gp/product/{{ include.asin }}/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN={{ include.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_id }}">
+    <a class="amazon-link" target="_blank" data-asin="{{ include.asin }}" href="http://www.amazon.com/gp/product/{{ include.asin }}/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN={{ include.asin }}&linkCode=as2&tag={{ site.amazon_affilliate_id }}">
         <img src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{ include.asin }}&Format=_SL450_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag={{ site.amazon_affilliate_id }}" />
         <img src="http://ir-na.amazon-adsystem.com/e/ir?t={{ site.amazon_affilliate_id }}&l=as2&o=1&a={{ include.asin }}" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     </a>
