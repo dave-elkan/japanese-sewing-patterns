@@ -1,3 +1,3 @@
 $(function() {
-  $(".content table").addClass("table");
+  $(".content table").addClass("table table-striped");
 });
