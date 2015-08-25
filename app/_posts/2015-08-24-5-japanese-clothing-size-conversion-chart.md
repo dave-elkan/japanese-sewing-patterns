@@ -22,7 +22,7 @@ When sewing Japanese patterns, you can add extra seam allowance to the hemline t
 The size conversion chart below shows you the measurement guidelines for Japanese sizes.
 
 |  |  | S | M | L | LL | 3L |
-| ----------------------- |
+| ------- | --- | ----- | ----- | ----- | ------ | ------- |
 | Bust | cm | 72~80 | 79~87 | 86~94 | 93~101 | 100~108 |
 |      | in | 28~32 | 31~34 | 34~37 | 37~40 | 39~43 |
 | Waist | cm | 58~64 | 64~70 | 69~77 | 77~85 | 85~93 |
