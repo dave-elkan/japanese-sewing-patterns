@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Japanese Clothing Size Conversion Chart to Western Size"
-date:   2015-08-25 12:00:10
+date:   2015-08-24 18:29:00
 categories:
 - understanding-japanese-patterns
 tags:
 - size
 - popular
 
-thumbnail: japanese-clothing-size-conversion-chart-Thumbnail
+thumbnail: japanese-clothing-size-conversion-chart-Thumbnail.png
 ---
 
 Clothing sizes in Japan for women uses a number system (from 5 to 11) or a letter system (S,M,L, etc.). In general, the clothing is made for smaller frames and heights than what we are used to in the West.
