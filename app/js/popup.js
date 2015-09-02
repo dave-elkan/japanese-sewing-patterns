@@ -8,7 +8,7 @@ $(function() {
       document.cookie = JSP_POPUP + "=1; expires=" + expires.toGMTString() + "; path=/";
       var $jspModal = $("#jspModal");
       $jspModal.modal();
-      ga('send', 'event', 'Samples', 'popup displayed', 'Popup displayed');
+      sendEvent('send', 'event', 'Samples', 'popup displayed', 'Popup displayed');
       setTimeout(function() {
         $("#jspPopupEmail").focus();
       }, 200);
@@ -16,16 +16,22 @@ $(function() {
       $jspModal.find("form").submit(function(e) {
         var value = $.trim($("#jspPopupEmail").val());
         if (value && value != "") {
-          ga('send', 'event', 'Samples', 'popup submitted', 'Popup submitted');
+          sendEvent('send', 'event', 'Samples', 'popup submitted', 'Popup submitted');
         } else {
-          ga('send', 'event', 'Samples', 'popup submit failed', 'Popup submit failed');
+          sendEvent('send', 'event', 'Samples', 'popup submit failed', 'Popup submit failed');
           e.preventDefault()
         }
       });
 
       $jspModal.on("hide.bs.modal", function() {
-        ga('send', 'event', 'Samples', 'popup closed', 'Popup closed');
+        sendEvent('send', 'event', 'Samples', 'popup closed', 'Popup closed');
       });
     }, 15000);
+  }
+
+  function sendEvent(a, b, c, d, e) {
+    if (window.location.hostname !== "0.0.0.0") {
+      ga(a, b, c, d, e);
+    }
   }
 });
