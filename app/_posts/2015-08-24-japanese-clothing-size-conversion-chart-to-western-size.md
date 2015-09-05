@@ -32,4 +32,6 @@ The size conversion chart below shows you the measurement guidelines for Japanes
 | Height | cm | 152~158 | 157~163 | 162~168 | 167~173 | 172~178 |
 |      | in | 4'11~5'2 | 5'1~5'4 | 5'3~5'6 | 5'5~5'8 | 5'6~5'10 |
 
-For additional Japanese clothing size conversion charts, including women's number system as well as men's, children and babies' clothing, download a free sample of my eBook, How to Sew Japanese Sewing Patterns.
+For additional Japanese clothing size conversion charts, including women's number system as well as men's, children and babies' clothing, download a free sample of my eBook, *How to Sew Japanese Sewing Patterns* below.
+
+![Convert Japanese clothing size to Western size chart measurements. More at www.japanesesewingpatterns.com](/img/2015/09/Japanese-size-measurements-chart-Pinterest.jpg "Convert Japanese clothing size to Western size chart measurements")
