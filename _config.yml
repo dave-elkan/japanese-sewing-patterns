@@ -5,9 +5,9 @@
 
 # Use _config.build.yml to override these settings on `grunt build`.
 
-name: japanesesewingpatterns.com
+name: Japanese Sewing Patterns
 url: http://www.japanesesewingpatterns.com
-description:
+description: Learn to sew Japanese sewing patterns, even if you don't speak Japanese.
 
 author:
   name: Rin Gomura
