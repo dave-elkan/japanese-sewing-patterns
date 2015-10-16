@@ -19,10 +19,10 @@ In the last of the 4 part series on the Japanese Ninja costume sewing pattern tr
 
 You can skip to the other part of this series below:
 
-[Part 1: Printing and cutting](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part1)  
-[Part 2: Sewing instructions for the Hood and Mask](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2)  
-[Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3)  
-[Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4)  
+[Part 1: Printing and cutting](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part1.html)  
+[Part 2: Sewing instructions for the Hood and Mask](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2.html)  
+[Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3.html)  
+[Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4.html)  
 
 ##Part 4: Sewing instructions for Hand Guards and Bodice
 

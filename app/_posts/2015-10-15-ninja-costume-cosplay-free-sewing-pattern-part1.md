@@ -22,10 +22,10 @@ This Ninja costume is available in kids (100 to 140 cm) and adults sizes (S to L
 
 For the purpose of translating this Ninja costume sewing pattern into English, I've used the Kids 100cm pattern. The instructions should be the same for all the sizes. I've decided to do the translation in 4 parts, otherwise this blog post becomes WAY too long.
 
-[Part 1: Printing and cutting](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part1)  
-[Part 2: Sewing instructions for the Hood and Mask](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2)  
-[Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3)  
-[Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4)  
+[Part 1: Printing and cutting](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part1.html)  
+[Part 2: Sewing instructions for the Hood and Mask](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2.html)  
+[Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3.html)  
+[Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4.html)  
 
 ##Part 1: Printing and cutting
 
@@ -51,6 +51,6 @@ For the purpose of translating this Ninja costume sewing pattern into English, I
 
 	![Step 5 of Ninja costume](/img/2015/10/P1-S5-Free-Ninja-Costume-Cosplay-Sewing-Pattern.jpg "Step 5 of Ninja costume sewing pattern")
 
-Go to [Part 2](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2) to see the sewing translations.
+Go to [Part 2](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2.html) to see the sewing translations.
 
 ![Free Ninja costume cosplay sewing pattern](/img/2015/10/Free-Ninja-Costume-Cosplay-Sewing-Pattern-Pinterest.jpg "Free Ninja costume cosplay sewing pattern. This authentic, full Ninja costume has been translated into English at www.japanesesewingpatterns.com")

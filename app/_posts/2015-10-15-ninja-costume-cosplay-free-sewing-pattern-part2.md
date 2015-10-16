@@ -19,10 +19,10 @@ Here we are at Part 2 of the 4 part series on the Japanese Ninja costume sewing 
 
 You can skip to the other part of this series below:
 
-[Part 1: Printing and cutting](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part1)  
-[Part 2: Sewing instructions for the Hood and Mask](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2)  
-[Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3)  
-[Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4)  
+[Part 1: Printing and cutting](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part1.html)  
+[Part 2: Sewing instructions for the Hood and Mask](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part2.html)  
+[Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3.html)  
+[Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4.html)  
 
 ##Part 2: Sewing instructions for the Hood and mask
 
@@ -57,4 +57,4 @@ Japanese characters for pieces used in this step are:
 
 6. Press down longer sides of the Hip Plate and fold (with right sides facing) along dotted line. Stitch along shorter sides and turn right side out. This should create a shape where there’s an opening on the widest edge.
 
-Go to [Part 3](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3) to continue to make the Hakama Pants.
+Go to [Part 3](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3.html) to continue to make the Hakama Pants.
