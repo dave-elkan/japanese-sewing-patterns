@@ -36,6 +36,8 @@ Important: All pattern pieces already include a seam allowance.
 
 3. Zig-zag stitch along the edges of the Bodice and Sleeves. Photo below shows Collar (A), Bodice (B) and Sleeves (C).
 
+![Step 2 of Ninja costume](/img/2015/10/P4-S2-Free-Ninja-Costume-Cosplay-Sewing-Pattern.jpg "Step 2 of Ninja costume sewing pattern")
+
 4. Stitch edges and back centre of the Bodice together and press seams open.
 
 5. Attach Collar in between positions marked by circles.
@@ -44,6 +46,7 @@ Important: All pattern pieces already include a seam allowance.
 
 Finished!
 
-To learn how to put on your traditional Ninja costume, see [this image](http://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg).
+To learn how to put on your traditional Ninja costume, see this image (source: Kimono Kataoka):
+<a href="http://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg" /></a> .
 
 This free sewing pattern, and many others are available from [DR-Cos] (http://www.dr-cos.info/). To learn to translate and sew Japanese sewing patterns, make sure you download a free sample of my eBook, *How to Sew Japanese Sewing Patterns* below.
