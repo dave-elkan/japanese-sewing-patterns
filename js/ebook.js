@@ -1,3 +1,6 @@
+/* global
+  ga
+*/
 $(function() {
 
     $(document).on('click', 'input.trial', function(e) {

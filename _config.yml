@@ -14,14 +14,12 @@ author:
   email: rin@sewinlove.com.au
   twitter: sewinlove
 
-# Exclude directories and/or files from the conversion.
-# Grunt moves image files and asset directories.
-exclude: ['img', 'css', 'js', 'fonts',
-          '**.png', '**.jpg', '**.jpeg', '**.gif', '**.webp', '**.svg', '**.ico']
+baseurl: ""
+url: "http://www.japanesesewingpatterns.com"
 
-# Force inclusion of directories and/or files in the conversion.
-# .htaccess is a good example since dotfiles are excluded by default.
-include: ['.htaccess']
+sass:
+  style: compact
+  sass_dir: _sass
 
 # Default post path style
 # date  /:categories/:year/:month/:day/:title.html
@@ -37,14 +35,8 @@ future: true
 # _config.build.yml sets this to false on `grunt build`
 show_drafts: true
 
-# Markdown library
-markdown: redcarpet
-# Markdown library options
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
-# Use Pygments to highlight code blocks
-pygments: true
+plugins:
+  - jekyll-feed
 
 amazon_affilliate_id: 'seinlo-20'
 amazon_affilliate_jp_id: 'sewinlove-22'

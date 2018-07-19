@@ -109,7 +109,7 @@ module.exports = function (grunt) {
         bundleExec: false,
         debugInfo: false,
         lineNumbers: false,
-        loadPath: 'app/_bower_components'
+        loadPath: '_bower_components'
       },
       dist: {
         files: [{
@@ -211,10 +211,6 @@ module.exports = function (grunt) {
         }]
       }
     },
-    // Usemin adds files to concat
-    concat: {},
-    // Usemin adds files to uglify
-    uglify: {},
     // Usemin adds files to cssmin
     cssmin: {
       dist: {
@@ -348,7 +344,7 @@ module.exports = function (grunt) {
                 stdout: true
             },
 
-            command: "s3cmd sync --delete-removed ./dist/ s3://www.japanesesewingpatterns.com/"
+            command: 's3cmd sync --delete-removed ./dist/ s3://www.japanesesewingpatterns.com/'
         }
     }
   });
@@ -395,10 +391,8 @@ module.exports = function (grunt) {
     'jekyll:dist',
     'concurrent:dist',
     'useminPrepare',
-    'concat',
     'autoprefixer:dist',
     'cssmin',
-    'uglify',
     'imagemin',
     'svgmin',
     'rev',

@@ -4,6 +4,6 @@
     p.async = true;
     p.src = '//assets.pinterest.com/js/pinit.js';
     p['data-pin-height'] = 28;
-    p['data-pin-hover'] = "true";
+    p['data-pin-hover'] = 'true';
     f.parentNode.insertBefore(p, f);
 }(document));
