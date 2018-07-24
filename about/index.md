@@ -24,7 +24,7 @@ I'm Rin, a lover of all things handmade. I was born in Japan where my grandmothe
 Keep updated on the latest Japanese Sewing Patterns stuff via:
 
 + Sew in Love's [Facebook Page](https://www.facebook.com/SewinLoveBlog)
-+ Twitter [@SewinLove](https://twitter.com/SewinLove)
++ Instagram [@SewinLove](https://instagram.com/SewinLove)
 + [Pinterest](http://www.pinterest.com/sewinloveblog/)
 
 ## Contact Rin
@@ -34,3 +34,4 @@ Please message me on [Facebook](https://www.facebook.com/SewinLoveBlog)
 ## Download a free ebook sample
 You can get a sneak peek of my ebook, “How to Sew Japanese Sewing Patterns” for free. You’ll also receive updates and discount codes. Sign up below:
 
+{% include sample_form.html classes="" %}
