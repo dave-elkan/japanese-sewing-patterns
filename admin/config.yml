@@ -1,6 +1,5 @@
 backend:
-  name: bitbucket
-  repo: edave/japanese-sewing-patterns-site
+  name: git-gateway
 media_folder: "img/uploads"
 collections:
   - name: "reviews" 
