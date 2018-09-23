@@ -1,3 +1,6 @@
+backend:
+  name: bitbucket
+  repo: edave/japanese-sewing-patterns-site
 media_folder: "img/uploads"
 collections:
   - name: "reviews" 
