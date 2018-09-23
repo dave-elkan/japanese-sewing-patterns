@@ -1,0 +1,38 @@
+media_folder: "img/uploads"
+collections:
+  - name: "reviews" 
+    label: "Review" 
+    folder: "_posts/reviews"
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    fields: 
+      - {label: "Layout", name: "review", widget: "hidden", default: "review"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Type", name: "type", widget: "hidden", default: "Review"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list", default: [] }
+      - {label: "Tags", name: "tags", widget: "list", default: [] }
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Language", name: "language", widget: "string", default: "Japanese"}
+      - {label: "Genre", name: "genre", widget: "string" }
+      - {label: "Sizing", name: "sizing", widget: "string" }
+      - {label: "Asin", name: "asin", widget: "string" }
+      - {label: "Total Garments", name: "total-garmets", widget: "string" }
+      - {label: "Garments", name: "garmets", widget: "list" }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "tutorials"
+    label: "Tutorials"
+    folder: "_posts/tutorials"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "review", widget: "hidden", default: "review"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Type", name: "type", widget: "hidden", default: "Tutorial"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list", default: [] }
+      - {label: "Tags", name: "tags", widget: "list", default: [] }
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "Landscape Image", name: "landscape-image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
