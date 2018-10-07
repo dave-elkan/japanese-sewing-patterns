@@ -2,19 +2,19 @@
 layout: default
 title: How to Sew Japanese Sewing Patterns
 ---
-# <center>How to Sew Japanese Sewing Patterns</center>
+<h1><center>How to Sew Japanese Sewing Patterns</center></h1>
 
-### <center>You too can enjoy sewing beautiful Japanese sewing patterns–even if you don’t speak Japanese!</center>
+<h2><center>You too can enjoy sewing beautiful Japanese sewing patterns–even if you don’t speak Japanese!</center></h2>
 
-### <center>Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.</center>
+<h2><center>Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.</center></h2>
 
-Hi there, I’m Rin from the sewing blog, Sew in Love.
+<p>Hi there, I’m Rin from the sewing blog, Sew in Love.</p>
 
 <p align="center">
   <img src="/img/tunic-dress-sewing-pattern-3.jpg" width="300px"/></p>
 <p align="center">(My favourite tunic made from a Japanese sewing pattern.)<p align="center">
 
-<p>My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing patterns, but found it extremely frustrating that \*\*I could not share my passion with my English speaking friends.\*\*</p>
+<p>My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing patterns, but found it extremely frustrating that <strong>I could not share my passion with my English speaking friends.</strong>
 <p>
 When I began sewing Japanese patterns, there was a lot of trial and error. I couldn’t read all the Japanese characters, AND I also noticed significant differences in sewing techniques and garment construction compared to Western patterns.</p>
 <p>
