@@ -10,19 +10,19 @@ title: How to Sew Japanese Sewing Patterns
 
 Hi there, I’m Rin from the sewing blog, Sew in Love.
 <p align="center">
-  <img src="/img/tunic-dress-sewing-pattern-3.jpg"" width="300px"/></p>
+  <img src="/img/tunic-dress-sewing-pattern-3.jpg" width="300px"/></p>
 <p align="center">(My favourite tunic made from a Japanese sewing pattern.)<p align="center">
 
-My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing patterns, but found it extremely frustrating that **I could not share my passion with my English speaking friends.** 
-
-When I began sewing Japanese patterns, there was a lot of trial and error. I couldn’t read all the Japanese characters, AND I also noticed significant differences in sewing techniques and garment construction compared to Western patterns. 
-
-After tackling more sewing projects, I finally became more confident with sewing Japanese patterns. I even started to post photos on my blog of garments I was proud to have completed. 
-
-Soon, I received dozens of emails from my English speaking blog readers, who bravely tried a Japanese sewing pattern––only to get stuck. Many had to resort to getting a professional seamstress to finish off their garment. A very expensive result and not very fun at all!
-
-This is why I created my ebook, How to Sew Japanese Sewing Patterns. A beginner friendly, tutorial style guide to understanding and sewing Japanese sewing patterns.
-
+<p>My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing patterns, but found it extremely frustrating that **I could not share my passion with my English speaking friends.**</p>
+<p>
+When I began sewing Japanese patterns, there was a lot of trial and error. I couldn’t read all the Japanese characters, AND I also noticed significant differences in sewing techniques and garment construction compared to Western patterns.</p>
+<p>
+After tackling more sewing projects, I finally became more confident with sewing Japanese patterns. I even started to post photos on my blog of garments I was proud to have completed.</p> 
+<p>
+Soon, I received dozens of emails from my English speaking blog readers, who bravely tried a Japanese sewing pattern––only to get stuck. Many had to resort to getting a professional seamstress to finish off their garment. A very expensive result and not very fun at all!</p>
+<p>
+This is why I created my ebook, How to Sew Japanese Sewing Patterns. A beginner friendly, tutorial style guide to understanding and sewing Japanese sewing patterns.</p>
+<p>Some testimonials from readers...</p>
 *You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog. ~ Mary*
 
 *Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
