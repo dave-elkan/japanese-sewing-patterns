@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Japanese sewing pattern ebook
+title: How to Sew Japanese Sewing Patterns
 ---
-Japanese sewing patterns e-book
-
 You too can enjoy sewing beautiful Japanese sewing patterns–even if you don’t speak Japanese! 
 
 Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.
