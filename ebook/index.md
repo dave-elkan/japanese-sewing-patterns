@@ -8,7 +8,11 @@ title: How to Sew Japanese Sewing Patterns
 
 ### <center>Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.</center>
 
-Hi there, I’m Rin from the sewing blog, Sew in Love.
+<p>Hi there, I’m Rin from the sewing blog, Sew in Love.
+<img src="/img/tunic-dress-sewing-pattern-3.jpg" alt="Tunic made from Japanese sewing pattern." align="center"> (My favourite tunic made from a Japanese sewing pattern.)
+</p>
 
-![Japanese sewing pattern tunic dress.](/img/tunic-dress-sewing-pattern-3.jpg) <img align="center">
+
+ 
+
 
