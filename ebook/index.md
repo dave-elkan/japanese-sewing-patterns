@@ -20,33 +20,32 @@ When I began sewing Japanese patterns, there was a lot of trial and error. I cou
 <p>
 After tackling more sewing projects, I finally became more confident with sewing Japanese patterns. I even started to post photos on my blog of garments I was proud to have completed.</p> 
 <p>
-Soon, I received dozens of emails from my English speaking blog readers, who bravely tried a Japanese sewing pattern––only to get stuck. Many had to resort to getting a professional seamstress to finish off their garment. A very expensive result and not very fun at all!</p>
+Soon, I was receiving dozens of emails from my English speaking blog readers, who <strong>bravely tried a Japanese sewing pattern––only to get stuck.</strong> Many had to resort to getting a professional seamstress to finish off their garment. A very expensive result and not very fun at all!</p>
 <p>
 This is why I created my ebook, How to Sew Japanese Sewing Patterns. A beginner friendly, tutorial style guide to understanding and sewing Japanese sewing patterns.</p>
-<p>Some testimonials from readers...</p>
-\*You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog. ~ Mary\*
+<p>Some testimonials from my e-book readers...</p>
+<p><i>You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog. ~ Mary</i></p>
 
-_Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
-~ Felicity_
+<p><i>Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
+~ Felicity</i></p>
 
-_It is a great reference and has given me confidence to sew Japanese patterns. Even though I have a Japanese daughter in law who can help me with words, she is not here all the time so your book makes me independent and I learn for myself!
+<p><i>It is a great reference and has given me confidence to sew Japanese patterns. Even though I have a Japanese daughter in law who can help me with words, she is not here all the time so your book makes me independent and I learn for myself!
 Thank you for taking the time to help others enjoy Japanese pattern books. I want to buy more to try and will at some stage.
-~ Anonymous reader_
+~ Anonymous reader</i></p>
 
-# <center>Introducing...
+<h1><center>Introducing...</h1>
 
-# How to Sew Japanese Sewing Patterns</center>
+<h1>How to Sew Japanese Sewing Patterns</center></h1>
 
-## <center>Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer. No Japanese skills required!</center>
+<h2><center>Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer. No Japanese skills required!</center></h2>
 
-What you will learn inside this info-packed ebook:
-
-* Designed to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.
-* With 18+ diagrams and photos, you’ll be guided step-by-step through the entire Japanese sewing process. 
-* Starting from selecting your pattern and size, drafting the pattern, and all the way to finishing your project.
-  Understand Japanese sewing terms at a glance.
+<p>What you will learn inside this info-packed ebook:</p>
+<ol>
+<li><strong>Designed to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.</strong>
+<br>With 18+ diagrams and photos, you’ll be guided step-by-step through the entire Japanese sewing process. Starting from selecting your pattern and size, drafting the pattern, and all the way to finishing your project.
+<li><strong>Understand Japanese sewing terms at a glance.</strong><br>
   Reference tables helps you to instantly translate Japanese sewing terms into English.
-  Make clothes for you, your friends AND family.
+<li><strong>Make clothes for you, your friends AND family.</strong><br>
   Conversion charts for Japanese to Western clothing sizes for women’s, men’s and children’s clothing
   All you’ll need to get started on your new sewing journey.
   38 pages of valuable information for your ongoing future reference
