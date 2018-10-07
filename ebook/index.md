@@ -29,7 +29,6 @@ This is why I created my ebook, How to Sew Japanese Sewing Patterns. A beginner 
 ~ Felicity*
 
 *It is a great reference and has given me confidence to sew Japanese patterns. Even though I have a Japanese daughter in law who can help me with words, she is not here all the time so your book makes me independent and I learn for myself!
-
 Thank you for taking the time to help others enjoy Japanese pattern books. I want to buy more to try and will at some stage.
 ~ Anonymous reader*
 
