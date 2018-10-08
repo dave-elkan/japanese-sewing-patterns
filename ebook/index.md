@@ -55,7 +55,7 @@ Thank you for taking the time to help others enjoy Japanese pattern books. I wan
 The ebook is really easy to understand, the language is simple and straightforward and it really covers the basics for understanding Japanese patterns.
 ~Novita, Blogger at Very Purple Person</i></p>
 <p><i>
-Great ebook...very helpfull...now i can sew and understand japanese sewing pattern :) ~ Anonymous reader</i></p>
+Great ebook...very helpful...now i can sew and understand japanese sewing pattern :) ~ Anonymous reader</i></p>
 <h2>
 For a limited time, you’ll receive these bonuses when you purchase my e-book!</h3>
 
@@ -65,22 +65,23 @@ For a limited time, you’ll receive these bonuses when you purchase my e-book!<
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
 <li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
 
-<h4>Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17USD, yours FREE)</h4>
+<h4>Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17 USD, yours FREE)</h4>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this summer dress with a ribbon belt and pleated neckline.</li>
 </li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
 <li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
 
-Bonus 3: Lifetime Ebook Updates - Yours FREE
-As you know, exciting new techniques and resources in sewing are being introduced all the time. I’ll be updating the ebook as needed, and you’ll be the first to receive the new edition, absolutely free. 
-(bonuses for email people: Fabric shopping guide, checklist, common sewing phrases, bonus sewing pattern?)
-I love that you dissected Japanese sewing patterns into the steps you would typically find! And I also love the bullet points! Very useful stuff!
-Kat, Sew Chibi
+<h4>Bonus 3: Lifetime Ebook Updates - Yours FREE</h4>
+<p>As you know, exciting new techniques and resources in sewing are being introduced all the time. I’ll be updating the ebook as needed, and you’ll be the first to receive the new edition, absolutely free.</p>
 
+<p><i>I love that you dissected Japanese sewing patterns into the steps you would typically find! And I also love the bullet points! Very useful stuff!
+<br>
+~Kat, Blogger at Sew Chibi</p>
+</p></i>
 This was so appreciated and gave me the ability to actually create a garment. I wasn 't sure how to answer because I very much agree that the book was helpful and I would recommend it to a friend.
-~anonymous reader
+<br>~Anonymous reader</p></i>
 
-Get started today for $27 (crossed out Value $51)
+<h4>These bonuses are worth $34 USD, but they are yours FREE when you purchase your e-book.</h4>
 
 Buy Now for $27 USD (button)
 
