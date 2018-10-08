@@ -48,7 +48,8 @@ Thank you for taking the time to help others enjoy Japanese pattern books. I wan
 <h1><center>How to Sew Japanese Sewing Patterns</center></h1>
 
 <h2><center>Step-by-step guide to help you quickly and successfully create the amazing designs Japanese sewing books have to offer. No Japanese skills required!</center></h2>
-
+<p align="center">
+  <img src="/img/product-image-large-2018.jpg" width="500px"/></p>
 <p>What you will learn inside this info-packed e-book:</p>
 <ol>
 <li><strong>Designed to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.</strong>
@@ -66,10 +67,12 @@ Thank you for taking the time to help others enjoy Japanese pattern books. I wan
 ~Novita, Blogger at Very Purple Person</i></p>
 <p><i>
 "Great ebook...very helpful...now i can sew and understand japanese sewing patterns :)"<br>~ Anonymous reader</i></p>
+
 <h2><center>
 For a limited time, you’ll receive these bonuses when you purchase my e-book!<center></h2>
 <h3><center>Everything you need to build your
 confidence using Japanese sewing patterns</h3></center>
+
 <h4>Bonus 1: High Waisted Skirt Sewing Pattern (valued at $17 USD, yours FREE)</h4>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this high waisted skirt with a ribbon belt.</li>
 <li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
