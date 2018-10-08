@@ -94,24 +94,36 @@ The book is very helpful and well organized so it's been easy to find the sectio
 <strong>I’ve never bought an e-book before. How does it work?</strong><br>
 An E-book is a book delivered to you in digital format. You will be sent an email with a link to download the file. You can then open it in your computer. If you’d prefer a physical copy, you can easily print the pages you need. 
 An E-book is a great format in delivering lots of great information at a lower price than you would pay for a big physical book plus postage costs. It means you can be anywhere in the world and get access to your E-book within 5 minutes!</p>
+<p>
+<strong>
+Will I receive anything in the post?</strong><br>
+This product is completely digital, and no packages will show up on your doorstep. :) The huge perk is that your new E-book is accessible immediately (you’ll receive your access email within 5 minutes) and from anywhere in the world.</p>
+<p>
+<strong>
+I've never seen a Japanese sewing pattern. Is this ebook still relevant?</strong><br>
+"How to Sew Japanese Sewing Patterns" is perfect to familiarise yourself with the wonder of Japanese sewing patterns. It's a great introduction to their structure, variety, where to find them and how to use them to make beautiful garments. To see some great Japanese sewing pattern books, you can read my book reviews.</p>
+<p>
+<strong>
+Is my credit card secure?</strong><br>
+Credit card security is extremely important. That's why all payments go through PayPal, who are leaders in risk management. PayPal keeps financial information encrypted and protected. You can read more about PayPal's security here.</p>
+<p>
+<strong>Can I print my e-book?</strong><br>
+Absolutely! You can print the entire e-book or just the pages you want to refer to easily.</p>
 
-Will I receive anything in the post?
-This product is completely digital, and no packages will show up on your doorstep. :) The huge perk is that your new E-book is accessible immediately (you’ll receive your access email within 5 minutes) and from anywhere in the world.
+<p><strong>Can I access my e-book on my phone or tablet eg iPad?</strong><br>
+Yes, the e-book is in a PDF format, which means you can open it on a phone or tablet. The easiest way to do this is to email the e-book to yourself and then open it on your phone or tablet.</p>
 
-I've never seen a Japanese sewing pattern. Is this ebook still relevant?
-"How to Sew Japanese Sewing Patterns" is perfect to familiarise yourself with the wonder of Japanese sewing patterns. It's a great introduction to their structure, variety, where to find them and how to use them to make beautiful garments. To see some great Japanese sewing pattern books, you can read my book reviews.
+<p><strong>Who is this e-book for?</strong><br>
+How to Sew Japanese Sewing Patterns is for any sewing enthusiast curious to try Japanese patterns, but haven't got the confidence to start. If you love the simplicity, elegance and modern lines of Japanese sewing patterns, and feel excited about learning something new, then you'll benefit from this e-book.</p>
 
-Is my credit card secure?
-Can I print my ebook?
-Can I access my ebook on my phone or tablet eg iPad?
-Who is this ebook for?
-Who is this ebook not for?
+<p><strong>Who is this e-book not for?</strong><br>
+You won't enjoy this e-book if you're not willing to spend the time to read it and take on a new challenge. If you're not interested in expanding your sewing skills and exploring a new world of sewing patterns, this e-book is not for you.</p>
 
-What is your refund policy?
-Due to the digital nature of "How to Sew Japanese Sewing Patterns", there is a no refund policy. The good news is that since first launching in 2013, I have only ever had ONE refund request. And it was because the customer thought she was receiving a physical book! 
-As a seller of digital products, I rely solely on your honesty and integrity. Thank you for being an amazing bunch of good hearted people! 
+<p><strong>What is your refund policy?</strong><br>
+Due to the digital nature of "How to Sew Japanese Sewing Patterns", there is a no refund policy. The good news is that since first launching in 2013, I have only ever had ONE refund request. And it was because the customer thought she was receiving a physical book! <br>
+As a seller of digital products, I rely solely on your honesty and integrity. Thank you for being an amazing bunch of good hearted people!</p>
 
-Can I see a sample of the ebook?
+<p><strong>Can I see a sample of the ebook?</strong><br>
 Yes, you can sign up to receive a free sample of "How to Sew Japanese Sewing Patterns" here. 
-
-Buy How to Sew Japanese Sewing Patterns now for $27 >>  (button)
+<p>
+Buy How to Sew Japanese Sewing Patterns now for $27 >>  (button)</p>
