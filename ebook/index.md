@@ -89,7 +89,8 @@ confidence using Japanese sewing patterns</center></h3>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
 <li>Both bonus sewing patterns comes in Japanese sizes S (small) to LL (extra large):<br>
 
-![Japanese Sewing Bonus Patterns Size Chart](/img/jsp-pattern-size-chart.png)
+<p align="center">
+  <img src="/img/jsp-pattern-size-chart.png" width="400px"/></p>
 
 </li></ul>
 
@@ -105,7 +106,8 @@ This was so appreciated and gave me the ability to actually create a garment. I 
 
 <h4>These bonuses are worth $34 USD, but they are yours FREE when you purchase your e-book.</h4>
 
-Buy Now for $27 USD (button)
+<p align="center">
+  <img src="/img/jsp-buy-now-button-27-400px.png" width="300px"/></p>
 
 <p><i>
 The book is very helpful and well organized so it's been easy to find the sections I needed.  Very glad I purchased the book. <br>~ Anonymous reader</i></p>
