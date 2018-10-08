@@ -61,13 +61,13 @@ For a limited time, you’ll receive these bonuses when you purchase my e-book!<
 
 <h4>Bonus 1: High Waisted Skirt Sewing Pattern (valued at $17 USD, yours FREE)</h4>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this high waisted skirt with a ribbon belt.</li>
-</li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
+<li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
 <li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
 
 <h4>Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17 USD, yours FREE)</h4>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this summer dress with a ribbon belt and pleated neckline.</li>
-</li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
+<li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
 <li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
 
@@ -77,23 +77,23 @@ For a limited time, you’ll receive these bonuses when you purchase my e-book!<
 <p><i>I love that you dissected Japanese sewing patterns into the steps you would typically find! And I also love the bullet points! Very useful stuff!
 <br>
 ~Kat, Blogger at Sew Chibi</i></p>
-<p></i>
+<p><i>
 This was so appreciated and gave me the ability to actually create a garment. I wasn 't sure how to answer because I very much agree that the book was helpful and I would recommend it to a friend.
 <br>~Anonymous reader</i></p>
 
 <h4>These bonuses are worth $34 USD, but they are yours FREE when you purchase your e-book.</h4>
 
 Buy Now for $27 USD (button)
-<p></i>
+<p><i>
 The book is very helpful and well organized so it's been easy to find the sections I needed.  Very glad I purchased the book. <br>~ Anonymous reader</i></p>
-<p></i>Even when I thought I knew enough about Japanese sewing patterns, this ebook surprised me with cool tricks and nice tips to satisfy sewing Japanese needs.
+<p><i>Even when I thought I knew enough about Japanese sewing patterns, this ebook surprised me with cool tricks and nice tips to satisfy sewing Japanese needs.
 <br>~Silvia, Blogger at Sewing Princess</i></p>
 
 <h4>Something on your mind? Here are the most commonly asked questions about my e-book:</h4>
-
-I’ve never bought an e-book before. How does it work?
+<p>
+<strong>I’ve never bought an e-book before. How does it work?</strong><br>
 An E-book is a book delivered to you in digital format. You will be sent an email with a link to download the file. You can then open it in your computer. If you’d prefer a physical copy, you can easily print the pages you need. 
-An E-book is a great format in delivering lots of great information at a lower price than you would pay for a big physical book plus postage costs. It means you can be anywhere in the world and get access to your E-book within 5 minutes!
+An E-book is a great format in delivering lots of great information at a lower price than you would pay for a big physical book plus postage costs. It means you can be anywhere in the world and get access to your E-book within 5 minutes!</p>
 
 Will I receive anything in the post?
 This product is completely digital, and no packages will show up on your doorstep. :) The huge perk is that your new E-book is accessible immediately (you’ll receive your access email within 5 minutes) and from anywhere in the world.
