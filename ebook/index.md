@@ -22,16 +22,16 @@ After tackling more sewing projects, I finally became more confident with sewing
 <p>
 Soon, I was receiving dozens of emails from my English speaking blog readers, who <strong>bravely tried a Japanese sewing pattern––only to get stuck.</strong> Many had to resort to getting a professional seamstress to finish off their garment. A very expensive result and not very fun at all!</p>
 <p>
-This is why I created my ebook, How to Sew Japanese Sewing Patterns. A beginner friendly, tutorial style guide to understanding and sewing Japanese sewing patterns.</p>
+This is why I created my e-book, "How to Sew Japanese Sewing Patterns". A beginner friendly, tutorial style guide to understanding and sewing Japanese sewing patterns.</p>
 <p>Some testimonials from my e-book readers...</p>
-<p><i>You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog. ~ Mary</i></p>
+<p><i>You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog. <br>~Mary</i></p>
 
-<p><i>Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
+<p><i>Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.<br>
 ~ Felicity</i></p>
 
 <p><i>It is a great reference and has given me confidence to sew Japanese patterns. Even though I have a Japanese daughter in law who can help me with words, she is not here all the time so your book makes me independent and I learn for myself!
 Thank you for taking the time to help others enjoy Japanese pattern books. I want to buy more to try and will at some stage.
-~ Anonymous reader</i></p>
+<br>~Anonymous reader</i></p>
 
 <h1><center>Introducing...</center></h1>
 
@@ -52,10 +52,10 @@ Thank you for taking the time to help others enjoy Japanese pattern books. I wan
 <li><strong>Suitable for all levels of sewing experience</strong><br>No matter your sewing level, whether you’re a complete beginner or a professional, you’ll benefit from the tutorial style explanations of Japanese sewing steps.</li>
 </ol></p>
 <p><i>
-The ebook is really easy to understand, the language is simple and straightforward and it really covers the basics for understanding Japanese patterns.
+The ebook is really easy to understand, the language is simple and straightforward and it really covers the basics for understanding Japanese patterns.<br>
 ~Novita, Blogger at Very Purple Person</i></p>
 <p><i>
-Great ebook...very helpful...now i can sew and understand japanese sewing pattern :) ~ Anonymous reader</i></p>
+Great ebook...very helpful...now i can sew and understand japanese sewing pattern :)<br>~ Anonymous reader</i></p>
 <h2>
 For a limited time, you’ll receive these bonuses when you purchase my e-book!</h3>
 
@@ -63,13 +63,17 @@ For a limited time, you’ll receive these bonuses when you purchase my e-book!<
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this high waisted skirt with a ribbon belt.</li>
 <li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
-<li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
+</ul>
 
 <h4>Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17 USD, yours FREE)</h4>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this summer dress with a ribbon belt and pleated neckline.</li>
 <li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
-<li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
+<li>Both bonus sewing patterns comes in Japanese sizes S (small) to LL (extra large):<br>
+
+![Japanese Sewing Bonus Patterns Size Chart](/img/jsp-pattern-size-chart.png)
+
+</li></ul>
 
 <h4>Bonus 3: Lifetime Ebook Updates - Yours FREE</h4>
 <p>As you know, exciting new techniques and resources in sewing are being introduced all the time. I’ll be updating the ebook as needed, and you’ll be the first to receive the new edition, absolutely free.</p>
@@ -84,6 +88,7 @@ This was so appreciated and gave me the ability to actually create a garment. I 
 <h4>These bonuses are worth $34 USD, but they are yours FREE when you purchase your e-book.</h4>
 
 Buy Now for $27 USD (button)
+
 <p><i>
 The book is very helpful and well organized so it's been easy to find the sections I needed.  Very glad I purchased the book. <br>~ Anonymous reader</i></p>
 <p><i>Even when I thought I knew enough about Japanese sewing patterns, this ebook surprised me with cool tricks and nice tips to satisfy sewing Japanese needs.
