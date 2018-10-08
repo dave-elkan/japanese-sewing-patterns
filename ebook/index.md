@@ -42,34 +42,34 @@ Thank you for taking the time to help others enjoy Japanese pattern books. I wan
 <p>What you will learn inside this info-packed ebook:</p>
 <ol>
 <li><strong>Designed to help you quickly and successfully create the amazing designs Japanese sewing books have to offer.</strong>
-<br>With 18+ diagrams and photos, you’ll be guided step-by-step through the entire Japanese sewing process. Starting from selecting your pattern and size, drafting the pattern, and all the way to finishing your project.
+<br>With 18+ diagrams and photos, you’ll be guided step-by-step through the entire Japanese sewing process. Starting from selecting your pattern and size, drafting the pattern, and all the way to finishing your project.</li>
 <li><strong>Understand Japanese sewing terms at a glance.</strong><br>
-  Reference tables helps you to instantly translate Japanese sewing terms into English.
+  Reference tables helps you to instantly translate Japanese sewing terms into English.</li>
 <li><strong>Make clothes for you, your friends AND family.</strong><br>
-  Conversion charts for Japanese to Western clothing sizes for women’s, men’s and children’s clothing
+  Conversion charts for Japanese to Western clothing sizes for women’s, men’s and children’s clothing.</li>
 <li><strong>All you’ll need to get started on your new sewing journey.</strong><br>
-  38 pages of valuable information for your ongoing future reference
-<li><strong>Suitable for all levels of sewing experience</strong><br>No matter your sewing level, whether you’re a complete beginner or a professional, you’ll benefit from the tutorial style explanations of Japanese sewing steps. 
+  38 pages of valuable information for your ongoing future reference.</li>
+<li><strong>Suitable for all levels of sewing experience</strong><br>No matter your sewing level, whether you’re a complete beginner or a professional, you’ll benefit from the tutorial style explanations of Japanese sewing steps.</li>
 </ol></p>
-
+<p><i>
 The ebook is really easy to understand, the language is simple and straightforward and it really covers the basics for understanding Japanese patterns.
-Novita, Very Purple Person
+~Novita, Blogger at Very Purple Person</i></p>
+<p><i>
+Great ebook...very helpfull...now i can sew and understand japanese sewing pattern :) ~ Anonymous reader</i></p>
+<h2>
+For a limited time, you’ll receive these bonuses when you purchase my e-book!</h3>
 
-Great ebook...very helpfull...now i can sew and understand japanese sewing pattern :) ~ anonymous reader
+<h4>Bonus 1: High Waisted Skirt Sewing Pattern (valued at $17 USD, yours FREE)</h4>
+<ul><li>You’ll put your new Japanese sewing skills to practice by making this high waisted skirt with a ribbon belt.</li>
+</li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
+<li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
+<li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
 
-For a limited time, you’ll also receive these bonuses!
-Bonus 1: High Waisted Skirt Sewing Pattern (valued at $17　USD, yours FREE)
-You’ll put your new Japanese sewing skills to practice by making this high waisted skirt with a ribbon belt.
-The pattern is written in Japanese, but with English translations in case you get stuck.
-Test your new Japanese pattern comprehension by sewing this easy pattern.
-Comes in Japanese sizes S (small) to LL (extra large):
-
-Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17USD, yours FREE)
-
-You’ll put your new Japanese sewing skills to practice by making this summer dress with a ribbon belt and pleated neckline.
-The pattern is written in Japanese, but with English translations in case you get stuck.
-Test your new Japanese pattern comprehension by sewing this easy pattern.
-Comes in Japanese sizes S (small) to LL (extra large):
+<h4>Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17USD, yours FREE)</h4>
+<ul><li>You’ll put your new Japanese sewing skills to practice by making this summer dress with a ribbon belt and pleated neckline.</li>
+</li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
+<li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
+<li>Comes in Japanese sizes S (small) to LL (extra large):</li></ul>
 
 Bonus 3: Lifetime Ebook Updates - Yours FREE
 As you know, exciting new techniques and resources in sewing are being introduced all the time. I’ll be updating the ebook as needed, and you’ll be the first to receive the new edition, absolutely free. 
