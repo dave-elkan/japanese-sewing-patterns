@@ -69,17 +69,21 @@ Thank you for taking the time to help others enjoy Japanese pattern books. I wan
 "Great ebook...very helpful...now i can sew and understand japanese sewing patterns :)"<br>~ Anonymous reader</i></p>
 
 <h2><center>
-For a limited time, you’ll receive these bonuses when you purchase my e-book!<center></h2>
+For a limited time, you’ll receive these bonuses when you purchase my e-book!</center></h2>
 <h3><center>Everything you need to build your
-confidence using Japanese sewing patterns</h3></center>
+confidence using Japanese sewing patterns</center></h3>
 
 <h4>Bonus 1: High Waisted Skirt Sewing Pattern (valued at $17 USD, yours FREE)</h4>
+<p align="center">
+  <img src="/img/Product-image-Bonus1Skirt-2018.jpg" width="400px"/></p>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this high waisted skirt with a ribbon belt.</li>
 <li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
 </ul>
 
 <h4>Bonus 2: Simple Summer Dress Sewing Pattern (valued at $17 USD, yours FREE)</h4>
+<p align="center">
+  <img src="/img/Product-image-Bonus2Dress-2018.jpg" width="400px"/></p>
 <ul><li>You’ll put your new Japanese sewing skills to practice by making this summer dress with a ribbon belt and pleated neckline.</li>
 <li>The pattern is written in Japanese, but with English translations in case you get stuck.</li>
 <li>Test your new Japanese pattern comprehension by sewing this easy pattern.</li>
