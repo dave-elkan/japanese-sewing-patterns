@@ -4,7 +4,7 @@ title: Welcome to your online resource for Japanese sewing patterns.
 ---
 This website is for all English speaking sewing enthusiasts, so you can enjoy Japanese sewing patterns, regardless of the language barrier.
 
-You will find \[free Japanese sewing patterns](/free sewing patterns/) translated into English, so you can start sewing straight away.
+You will find \[free Japanese sewing patterns](/free-japanese-sewing-patterns/) translated into English, so you can start sewing straight away.
 
 You can read [reviews of Japanese sewing books](/reviews/), and shop for recommended sewing books.
 
