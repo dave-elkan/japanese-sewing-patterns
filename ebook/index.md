@@ -148,9 +148,7 @@ You won't enjoy this e-book if you're not willing to spend the time to read it a
 Due to the digital nature of "How to Sew Japanese Sewing Patterns", there is a no refund policy. The good news is that since first launching in 2013, I have only ever had ONE refund request. And it was because the customer thought she was receiving a physical book! <br>
 As a seller of digital products, I rely solely on your honesty and integrity. Thank you for being an amazing bunch of good hearted people!</p>
 
-<p><strong>Can I see a sample of the ebook?</strong><br>
-Yes, you can sign up to receive a free sample of "How to Sew Japanese Sewing Patterns" here. 
-<p>
+
 Get started with "How to Sew Japanese Sewing Patterns" today! <br>
 </p>
 <p align="center">
