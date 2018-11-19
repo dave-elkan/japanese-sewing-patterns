@@ -1,64 +1,32 @@
-.ebook-sales {
+.ebook.page {
 
   .container {
-    clear: both;
+    padding-left: 100px;
+    padding-right: 100px;
   }
 
-  .sample-pages > div {
-    min-height: 200px;
-    margin-top: 1.75em;
+  hr {
+    border-top: 4px solid #ccc;
+    margin: 60px 0;
   }
 
-  .sample-pages a {
-    padding: 0;
-    margin-bottom: 0.5em;
+  h1, h2, h3 {
+    text-align: center;
   }
 
-  section.faq {
-    background-color: #d1ebf7;
-    padding-bottom: 2em;
+  img, img + em {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
   }
 
-  div.heading {
-
-    img {
-      margin-left: 30px;
-    }
-
-    h2 {
-      font-size: 1.75em;
-    }
+  p > div.dpd-large {
+    margin: 45px auto 0;
+    display: block;
+    text-align: center;
   }
 
-  .ebook-nav ul {
-    float: right;
-    padding-top: 1em;
-    li {
-      font-family: 'Crimson Text', serif;
-      font-size: 1.25em;
-    }
-  }
-
-  .ebook-nav {
-    border-bottom: 2px solid #c0c0c0;
-    margin-top: 2em;
-  }
-
-  .quote {
-    position: relative;
-    padding-left: 32px;
-  }
-
-  .quote:before {
-    content: "\201C";
-    font-size: 68px;
-    color: #4f575a;
-    position: absolute;
-    left: 0;
-    top: 22px;
-  }
-
-  .faq p a, .faq h5 a {
-    color: #00BFFF;
+  ol {
+    margin-bottom: 50px;
   }
 }

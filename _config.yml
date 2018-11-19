@@ -38,5 +38,8 @@ show_drafts: true
 plugins:
   - jekyll-feed
 
+kramdown:
+  hard_wrap: true
+
 amazon_affilliate_id: 'seinlo-20'
 amazon_affilliate_jp_id: 'sewinlove-22'
