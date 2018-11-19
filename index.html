@@ -2,27 +2,7 @@
 layout: default
 ---
 
-<section class="e-book">
-      <div class="container">
-          <div class="row">
-              <div class="col-md-7">
-                  <div class="thumbnail">
-                      <div class="image">
-                        <a href="{{ site.path }}/ebook"><img src="{{ site.path }}/img/site/SIL/JSP-Homepage-package-banner-643x362.png"></a>
-                      </div>
-                  </div>
-              </div>
-              <div class="col-md-5">
-                  <h2>How to sew Japanese sewing patterns ebook package</h2>
-                  <h3>Everything you need to sew your first Japanese sewing pattern.</h3>
-                  <div style="text-align: center">
-                    <a href="/ebook#sample" class="btn btn-default btn-lg blue buy">Get my FREE ebook sample</a>
-                  </div>
-              </div>
-          </div>
-      </div>
-</section>
-
+{% include ebook-callout.html %}
 {% include post_section.html posts=site.categories.reviews count=3 title="Reviews" %}
 {% include post_section.html posts=site.tags.popular count=3 title="Popular" %}
 
