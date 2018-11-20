@@ -10,8 +10,7 @@ title: How to Sew Japanese Sewing Patterns
 
 <img src="/img/tunic-dress-sewing-pattern-3.jpg" />*(My favourite tunic made from a Japanese sewing pattern.)*
 
-My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing 
-patterns, but found it extremely frustrating that __I could not share my passion with my English speaking friends.__
+My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing patterns, but found it extremely frustrating that __I could not share my passion with my English speaking friends.__
 
 <img src="/img/JSP-Books-2018.jpg" />*(Some of the thousands of patterns that are only available in Japanese.)*
 
@@ -30,7 +29,7 @@ This is why I created my e-book, **How to Sew Japanese Sewing Patterns** A begin
 ## Some testimonials from my e-book readers...
 
 > You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog.
-~Mary
+&nbsp;&nbsp;&nbsp;~Mary
 
 > Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country 
 AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
