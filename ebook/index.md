@@ -29,16 +29,16 @@ This is why I created my e-book, **How to Sew Japanese Sewing Patterns** A begin
 ## Some testimonials from my e-book readers...
 
 > You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog.
-&nbsp;&nbsp;&nbsp;~Mary
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Mary*
 
 > Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country 
 AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
-~ Felicity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Felicity*
 
 > It is a great reference and has given me confidence to sew Japanese patterns. Even though I have a Japanese daughter in law who can help me with words, she is not here all the
  time so your book makes me independent and I learn for myself!
 Thank you for taking the time to help others enjoy Japanese pattern books. I want to buy more to try and will at some stage.
-~Anonymous reader
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Anonymous reader*
 
 ---
 
