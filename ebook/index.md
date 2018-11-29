@@ -10,8 +10,7 @@ title: How to Sew Japanese Sewing Patterns
 
 <img src="/img/tunic-dress-sewing-pattern-3.jpg" />*(My favourite tunic made from a Japanese sewing pattern.)*
 
-My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing 
-patterns, but found it extremely frustrating that __I could not share my passion with my English speaking friends.__
+My Japanese mother taught me how to sew, so it’s no wonder my first exposure to sewing patterns were all from Japan. I became obsessed with the elegance of Japanese sewing patterns, but found it extremely frustrating that __I could not share my passion with my English speaking friends.__
 
 <img src="/img/JSP-Books-2018.jpg" />*(Some of the thousands of patterns that are only available in Japanese.)*
 
@@ -30,16 +29,16 @@ This is why I created my e-book, **How to Sew Japanese Sewing Patterns** A begin
 ## Some testimonials from my e-book readers...
 
 > You are so much help; I never would have even attempted Japanese sewing patterns (in Japanese) without your book and blog.
-~Mary
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Mary*
 
 > Thank you so much for your fabulous book! There are always questions when you take on the challenge of trying to make something that has been put together in another country 
 AND in another language and so your book has been so very helpful in answering so many questions - I have bought more patterns since reading it because I feel more confident now! Thanks so much again.
-~ Felicity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Felicity*
 
 > It is a great reference and has given me confidence to sew Japanese patterns. Even though I have a Japanese daughter in law who can help me with words, she is not here all the
  time so your book makes me independent and I learn for myself!
 Thank you for taking the time to help others enjoy Japanese pattern books. I want to buy more to try and will at some stage.
-~Anonymous reader
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Anonymous reader*
 
 ---
 
@@ -65,10 +64,10 @@ Conversion charts for Japanese to Western clothing sizes for women’s, men’s 
 No matter your sewing level, whether you’re a complete beginner or a professional, you’ll benefit from the tutorial style explanations of Japanese sewing steps.
 
 > The ebook is really easy to understand, the language is simple and straightforward and it really covers the basics for understanding Japanese patterns.
-~Novita, Blogger at Very Purple Person
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Novita, Blogger at Very Purple Person*
 
 > Great ebook...very helpful...now i can sew and understand japanese sewing patterns :)
-~ Anonymous reader
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Anonymous reader*
 
 ---
 
@@ -101,11 +100,11 @@ No matter your sewing level, whether you’re a complete beginner or a professio
 As you know, exciting new techniques and resources in sewing are being introduced all the time. I’ll be updating the ebook as needed, and you’ll be the first to receive the new edition, absolutely free.
 
 > I love that you dissected Japanese sewing patterns into the steps you would typically find! And I also love the bullet points! Very useful stuff!
-~Kat, Blogger at Sew Chibi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Kat, Blogger at Sew Chibi*
 
 > This was so appreciated and gave me the ability to actually create a garment. I wasn 't sure how to answer because I very much agree that the book was helpful and I would 
 recommend it to a friend.
-~Anonymous reader
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Anonymous reader*
 
 --- 
 
@@ -115,10 +114,10 @@ recommend it to a friend.
 data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://japanesesewingpatterns.dpdcart.com/cart/add?product_id=81585&amp;method_id=84907">BUY NOW</a><script src="https://japanesesewingpatterns.dpdcart.com/dpd.js"></script>
 
 > The book is very helpful and well organized so it's been easy to find the sections I needed.  Very glad I purchased the book.
-~ Anonymous reader
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~ Anonymous reader*
 
 > Even when I thought I knew enough about Japanese sewing patterns, this ebook surprised me with cool tricks and nice tips to satisfy sewing Japanese needs.
-~Silvia, Blogger at Sewing Princess
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Silvia, Blogger at Sewing Princess*
 
 ---
 
@@ -134,7 +133,7 @@ An E-book is a great format in delivering lots of great information at a lower p
 This product is completely digital, and no packages will show up on your doorstep. :) The huge perk is that your new E-book is accessible immediately (you’ll receive your access email within 5 minutes) and from anywhere in the world.
 
 **I've never seen a Japanese sewing pattern. Is this ebook still relevant?** 
-"How to Sew Japanese Sewing Patterns" is perfect to familiarise yourself with the wonder of Japanese sewing patterns. It's a great introduction to their structure, variety, where to find them and how to use them to make beautiful garments. To see some great Japanese sewing pattern books, you can read my book reviews.
+"How to Sew Japanese Sewing Patterns" is perfect to familiarise yourself with the wonder of Japanese sewing patterns. It's a great introduction to their structure, variety, where to find them and how to use them to make beautiful garments. To see some great Japanese sewing pattern books, you can read my book reviews on this site.
 
 **Is my credit card secure?** 
 Credit card security is extremely important. That's why all payments go through PayPal, who are leaders in risk management. PayPal keeps financial information encrypted and protected. You can read more about PayPal's security here.
