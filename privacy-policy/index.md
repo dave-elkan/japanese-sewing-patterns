@@ -117,6 +117,6 @@ Japanese Sewing Patterns
 
 [hello@sewinlove.com.au](mailto:hello@sewinlove.com.au)
 
-400 Page Street San Francisco California 94102
+Wollongong, Australia
 
 Last updated 21 March 2015
