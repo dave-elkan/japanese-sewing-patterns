@@ -8,12 +8,16 @@ title: Japanese sewing pattern store
 <div class="container store">
     <h2>Recommended Japanese Sewing Books</h2>
     {% for link in site.data.store_links %}
-        {% cycle 'open rows': '<div class="row">', nil, nil, nil %}
-            <div class="col-md-3 text-center">
-                {% include amazon_link_store.html link=link %}
-            </div>
-        {% cycle 'close rows': nil, nil, nil, '</div>' %}
+      {% assign mod = forloop.index0 | modulo:4 %}
+      {% if forloop.index0 > 0 and mod == 0 %}
+        </div>
+      {% endif %}
+      {% if mod == 0 %}
+        <div class="row">
+      {% endif %}
+      <div class="col-md-3 text-center">
+        {% include amazon_link_store.html link=link %}
+      </div>
     {% endfor %}
-    {% cycle 'close rows': nil, nil, nil, '</div>' %}
 </div>
 
