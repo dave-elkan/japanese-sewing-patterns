@@ -110,8 +110,7 @@ recommend it to a friend.
 
 ## These bonuses are worth $34 USD, but they are yours FREE when you purchase your e-book.
 
-<a data-dpd-type="button" data-text="BUY NOW" data-variant="price-right" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" 
-data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://japanesesewingpatterns.dpdcart.com/cart/add?product_id=81585&amp;method_id=84907">BUY NOW</a><script src="https://japanesesewingpatterns.dpdcart.com/dpd.js"></script>
+<a data-dpd-type="button" data-text="PURCHASE NOW" data-variant="price-right" data-button-size="dpd-large" data-bg-color="00bfff" data-bg-color-hover="0bddff" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://japanesesewingpatterns.dpdcart.com/cart/add?product_id=81585&amp;method_id=84907">PURCHASE NOW</a><script src="https://japanesesewingpatterns.dpdcart.com/dpd.js"></script>
 
 > The book is very helpful and well organized so it's been easy to find the sections I needed.  Very glad I purchased the book.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~ Anonymous reader*
