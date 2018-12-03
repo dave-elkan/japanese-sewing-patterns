@@ -158,4 +158,4 @@ As a seller of digital products, I rely solely on your honesty and integrity. Th
 
 ## Get started with "How to Sew Japanese Sewing Patterns" today! 
 
-<a data-dpd-type="button" data-text="BUY NOW" data-variant="price-right" data-button-size="dpd-large" data-bg-color="469d3d" data-bg-color-hover="5cc052" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://japanesesewingpatterns.dpdcart.com/cart/add?product_id=81585&amp;method_id=84907">BUY NOW</a><script src="https://japanesesewingpatterns.dpdcart.com/dpd.js"></script>
+<a data-dpd-type="button" data-text="PURCHASE NOW" data-variant="price-right" data-button-size="dpd-large" data-bg-color="00bfff" data-bg-color-hover="0bddff" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://japanesesewingpatterns.dpdcart.com/cart/add?product_id=81585&amp;method_id=84907">PURCHASE NOW</a><script src="https://japanesesewingpatterns.dpdcart.com/dpd.js"></script>
