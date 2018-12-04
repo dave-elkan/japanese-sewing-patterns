@@ -50,6 +50,7 @@ The sewing process for Pattern D is included in the book as a step-by-step tutor
 
 ### Conclusion
 
-No wonder this book is a best seller in Japan. It’s not only beautiful to look at, but the sewing patterns produce practical, but unique clothes for little girls. You can check out the author’s blog, [A Sunny Spot](http://blog.a-sunny-spot.com/) to see her latest projects.
+No wonder this book is a best seller in Japan. It’s not only beautiful to look at, but the sewing patterns produce practical, but unique clothes for little girls. You can check 
+out the author’s blog, [A Sunny Spot](https://blog.a-sunny-spot.com/) to see her latest projects.
 
 ![A Sunny Spot Japanese sewing pattern](/img/2013/10/Japanese-sewing-book-reivew-a-sunny-spot-girls-clothes-Pinterest.jpg "A Sunny Spot Japanese sewing pattern")

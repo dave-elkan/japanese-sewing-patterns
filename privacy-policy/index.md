@@ -4,8 +4,7 @@ title: Privacy policy
 ---
 
 This Privacy Policy governs the manner in which Japanese Sewing Patterns collects, uses,
-maintains and discloses information collected from users (each, a "User") of the http://
-www.japanesesewingpatterns.com website ("Site"). This privacy policy applies to the Site and
+maintains and discloses information collected from users (each, a "User") of the www.japanesesewingpatterns.com website ("Site"). This privacy policy applies to the Site and
 all products and services offered by Japanese Sewing Patterns.
 
 ### Personal identification information
@@ -113,7 +112,7 @@ with this site, please contact us at:
 
 Japanese Sewing Patterns
 
-[http://www.japanesesewingpatterns.com](http://www.japanesesewingpatterns.com)
+[https://www.japanesesewingpatterns.com](https://www.japanesesewingpatterns.com)
 
 [hello@sewinlove.com.au](mailto:hello@sewinlove.com.au)
 

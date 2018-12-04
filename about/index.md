@@ -18,7 +18,7 @@ I'm Rin, a lover of all things handmade. I was born in Japan where my grandmothe
 
 I love the simplicity and elegance of Japanese sewing patterns–my mission is to make them accessible to non-Japanese speakers. I’m also passionate about helping women discover their creativity and create a beautiful, meaningful life. 
 
-For more about me, please come say hello at my crafting and slow living blog, [Sew in Love](http://www.sewinlove.com.au/?utm_source=JSP&utm_medium=about&utm_campaign=link).
+For more about me, please come say hello at my crafting and slow living blog, [Sew in Love](https://www.sewinlove.com.au/?utm_source=JSP&utm_medium=about&utm_campaign=link).
 
 ## Stay in touch
 

@@ -36,7 +36,7 @@ If you can find the right fabric, this v-neck dress is the perfect sewing patter
 
 **Design T - Liberty-print dress with chic black trim**
 
-The black trim gives this smock style dress a chic, understated look. I'm making this dress using crepe de chine silk over on my [sewing blog, Sew in Love](http://www.sewinlove.com.au/2014/03/29/stylish-dress-book-wear-freedom-dress-sew-along-part-1/). It's a sew-along, so please join in!
+The black trim gives this smock style dress a chic, understated look. I'm making this dress using crepe de chine silk over on my [sewing blog, Sew in Love](https://www.sewinlove.com.au/2014/03/29/stylish-dress-book-wear-freedom-dress-sew-along-part-1/). It's a sew-along, so please join in!
 
 ### Conclusion
 
