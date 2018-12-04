@@ -47,6 +47,6 @@ Important: All pattern pieces already include a seam allowance.
 Finished!
 
 To learn how to put on your traditional Ninja costume, see this image (source: Kimono Kataoka):
-<a href="http://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg" target="_blank"><img src="http://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg" /></a> .
+<a href="http://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg" target="_blank"><img src="https://livedoor.blogimg.jp/netagazou_okiba/imgs/1/3/132c2968.jpg" /></a> .
 
 This free sewing pattern, and many others are available from [DR-Cos] (http://www.dr-cos.info/). To learn to translate and sew Japanese sewing patterns, make sure you download a free sample of my eBook, *How to Sew Japanese Sewing Patterns* below.
