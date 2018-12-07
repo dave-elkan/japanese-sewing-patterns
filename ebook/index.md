@@ -63,6 +63,8 @@ Conversion charts for Japanese to Western clothing sizes for women’s, men’s 
 1. **Suitable for all levels of sewing experience**
 No matter your sewing level, whether you’re a complete beginner or a professional, you’ll benefit from the tutorial style explanations of Japanese sewing steps.
 
+<a data-dpd-type="button" data-text="PURCHASE NOW" data-variant="price-right" data-button-size="dpd-large" data-bg-color="00bfff" data-bg-color-hover="0bddff" data-text-color="ffffff" data-pr-bg-color="ffffff" data-pr-color="000000" data-lightbox="1" href="https://japanesesewingpatterns.dpdcart.com/cart/add?product_id=81585&amp;method_id=84907">PURCHASE NOW</a><script src="https://japanesesewingpatterns.dpdcart.com/dpd.js"></script>
+
 > The ebook is really easy to understand, the language is simple and straightforward and it really covers the basics for understanding Japanese patterns.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*~Novita, Blogger at Very Purple Person*
 
