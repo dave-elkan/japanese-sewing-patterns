@@ -27,7 +27,7 @@ Please visit Handmade no Kokoro and [download the free sewing pattern](http://ha
 The following is an English translation of the original Japanese version. Please visit the original blog post on
 “Handmade no Kokoro” to see more photos for this tutorial.
 
-##Materials
+## Materials
 
 - Fabric A - 58cm x 24cm or 22.8 x 9.5 inches
 - Fabric B - 48cm x 24cm or 19 x 9.5 inches
@@ -46,7 +46,7 @@ The following is an English translation of the original Japanese version. Please
 
 1-3 hours
 
-##Method 
+## Method 
 
 *(Please visit [Handmade no Kokoro](http://handmadenokokoro.web.fc2.com/katagami/017.html) to see more step-by-step photos)*
 

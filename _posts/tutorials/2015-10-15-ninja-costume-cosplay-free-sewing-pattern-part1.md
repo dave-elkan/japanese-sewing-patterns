@@ -27,7 +27,7 @@ For the purpose of translating this Ninja costume sewing pattern into English, I
 [Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3.html)  
 [Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4.html)  
 
-##Part 1: Printing and cutting
+## Part 1: Printing and cutting
 
 *(Please visit [DR-Cos](http://www.dr-cos.info/fp-ninja.html) to download the Ninja costume sewing pattern in your size*
 

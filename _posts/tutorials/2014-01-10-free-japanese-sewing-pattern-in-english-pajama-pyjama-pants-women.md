@@ -27,7 +27,7 @@ Please visit Nani-Iro and [DOWNLOAD THE FREE SEWING PATTERN](http://naniiro.jp/t
 
 The following is an English translation of the original Japanese version. 
 
-##Size Adjustment
+## Size Adjustment
 
 The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only comes in one size (Japanese size M). This is equivalent to 64-70cm (26-28") waist. To adjust the sewing pattern to fit you, follow these guidelines.
 
@@ -39,7 +39,7 @@ The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only
 
 ![Size adjustment guide for pajama pants](/img/2014/01/Free-pajama-pants-sewing-pattern-size-adjustment-guide.png "Size adjustment guide for pajama pants")
 
-##Materials
+## Materials
 
 - Fabric - 80 cm x 220cm or 22.8 x 9.5 inches
 - Elastic^ - width 2.5cm or 1 inch
@@ -53,7 +53,7 @@ The [free pants sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) only
 
 1-3 hours
 
-##Method 
+## Method 
 
 1. [Download sewing pattern](http://naniiro.jp/textile/pdf/ouchi_pm.pdf) from Nani-Iro website. Draft a sewing pattern using the Size Adjustment guidelines above. ALL MEASUREMENTS ARE IN METRIC CENTIMETRES. The circles in PINK are the seam allowance which must be added before cutting out your fabric. You need to cut two pieces which are mirror images to each other.
 

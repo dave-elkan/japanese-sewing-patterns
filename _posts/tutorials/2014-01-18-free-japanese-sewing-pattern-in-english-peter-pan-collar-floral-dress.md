@@ -28,7 +28,7 @@ Please visit Clover Japan and [DOWNLOAD THE FREE SEWING PATTERN](http://www.clov
 
 The following is an English translation of the original Japanese version. 
 
-##Materials
+## Materials
 
 - Floral Fabric^ - 110 cm x 250cm or 43 x 98.5 inches
 - Plain Fabric - 110 cm x 40cm or 43 x 16 inches
@@ -38,11 +38,11 @@ The following is an English translation of the original Japanese version.
 
 *Fabric Suggestions: cotton, rayon*
 
-##Size
+## Size
 
 Japanese ladies size M, which fits about a US 4 or UK 8. 
 
-##Printing and Drafting the Pattern
+## Printing and Drafting the Pattern
 
 The [free dress sewing pattern](http://www.clover.co.jp/recipe/c282otonawanpi.pdf) needs to be printed without scaling on A4 or Legal Size paper. 
 
@@ -58,7 +58,7 @@ The sewing pattern DOES NOT include a seam allowance. Make sure you add the corr
 
 ![Peter pan collar dress seam allowance](/img/2014/01/Peter-pan-collar-dress-seam-allowance.png "Peter pan collar dress seam allowance")
 
-##Method 
+## Method 
 
 [Download sewing pattern](http://www.clover.co.jp/recipe/c282otonawanpi.pdf) from the Clover website. The sewing pattern includes good, detailed diagrams for each step. Please follow the diagrams with these English translations. 
 

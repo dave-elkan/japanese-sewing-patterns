@@ -24,7 +24,7 @@ You can skip to the other part of this series below:
 [Part 3: Sewing instructions for Hakama Pants](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part3.html)  
 [Part 4: Sewing instructions for Hand Guards and Bodice](/free-sewing-patterns/2015/10/15/ninja-costume-cosplay-free-sewing-pattern-part4.html)  
 
-##Part 4: Sewing instructions for Hand Guards and Bodice
+## Part 4: Sewing instructions for Hand Guards and Bodice
 
 Important: All pattern pieces already include a seam allowance.
 
