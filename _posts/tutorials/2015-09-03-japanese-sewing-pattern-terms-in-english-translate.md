@@ -13,7 +13,8 @@ thumbnail: How-to-translate-Japanese-sewing-pattern-Thumbnail.png
 
 Want to know how to translate Japanese sewing patterns? Facing a page of sewing instructions in Japanese can be intimidating, but like with any sewing projects, there are certain sewing terms which are used repeatedly. Here's the most commonly used Japanese sewing terms and their translations in English.
 
-###Sewing Basics
+### Sewing Basics
+
 | Japanese | How to Read | English Translation |
 | -------  | ------ | ------- |
 | 作り方 | tsukurikata | instructions |
@@ -22,7 +23,8 @@ Want to know how to translate Japanese sewing patterns? Facing a page of sewing 
 | わ | wa | symbol to indicate fabric fold line |
 
 
-###Directional
+### Directional
+
 | Japanese | How to Read | English Translation |
 | -------  | ------ | ------- |
 | 裏 or うら| ura | reverse/wrong side |
@@ -30,7 +32,9 @@ Want to know how to translate Japanese sewing patterns? Facing a page of sewing 
 | 前 or まえ　| mae | front |
 | 後ろ or うしろ | ushiro | back |
 
-###Instructions
+
+### Instructions
+
 | Japanese | How to Read | English Translation |
 | -------  | ------ | ------- |
 | 縫う | nuu | sew |
@@ -40,7 +44,9 @@ Want to know how to translate Japanese sewing patterns? Facing a page of sewing 
 | 始末 | shimatsu | finish |
 | 出来上がり | dekiagari | complete |
 
-###Equipment
+
+### Equipment
+
 | Japanese | How to Read | English Translation |
 | -------  | ------ | ------- |
 | 表布 | omote nuno | right / main fabric |
@@ -49,12 +55,15 @@ Want to know how to translate Japanese sewing patterns? Facing a page of sewing 
 | ボタン | botan | button |
 | ファスナー | fasuna |fastener / zipper |
 
-###Clothing Items
+
+### Clothing Items
+
 | Japanese | How to Read | English Translation |
 | -------  | ------ | ------- |
 | スカート | sukato | skirt |
 | ベルト | beruto | belt |
 | ワンピース | wanpiisu | one-piece/dress |
+
 
 ##Let's try translating a Japanese sewing pattern!
 Here's an example of a Japanese sewing pattern for a very simple maxi skirt.
