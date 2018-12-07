@@ -65,7 +65,8 @@ Want to know how to translate Japanese sewing patterns? Facing a page of sewing 
 | ワンピース | wanpiisu | one-piece/dress |
 
 
-##Let's try translating a Japanese sewing pattern!
+## Let's try translating a Japanese sewing pattern!
+
 Here's an example of a Japanese sewing pattern for a very simple maxi skirt.
 
 Circled in BLUE, the Japanese symbol 作り方 means Instructions.
