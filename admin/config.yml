@@ -21,7 +21,7 @@ collections:
       - {label: "Sizing", name: "sizing", widget: "string", default: "" }
       - {label: "Asin", name: "asin", widget: "string", default: "" }
       - {label: "Total Garments", name: "total-garmets", widget: "string", default: "" }
-      - {label: "Garments", name: "garmets", widget: "list", default: "" }
+      - {label: "Garments", name: "garmets", widget: "list", default: [""] }
       - {label: "Body", name: "body", widget: "markdown" }
   - name: "tutorials"
     label: "Tutorials"
